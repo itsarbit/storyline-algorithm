@@ -1,0 +1,17 @@
+These datasets contain interaction sessions of movies which are used to generate storyline visualizations.
+
+The value of TIME_COUNT corresponds to the number of time steps in the data.
+The value of NODE_COUNT corresponds to the number of characters (lines) there are in the data.
+The value of INTERACTION_SESSION_COUNT corresponds to the number of interaction sessions in the data.
+The value of LOCATION_COUNT corresponds to the number of unique locations there are in the data.
+The following two lines map the characters and the locations to its id.
+The optional line which starts with WEIGHTS provides the special weight applied to the characters.
+These weights are used to regulate their lines' deviations.
+
+Each interaction session has 6 unique attributes.
+Name corresponds to the name of the interaction session. It consists of a combination of the members and start time of the interaction session in our data.
+Id corresponds to the id number of the interaction session and is unique for each interaction session.
+Start corresponds to the starting time step of the interaction session.
+End corresponds to the ending time step of the interaction session.
+Members corresponds to the members which belong to the interaction session. This variable consists of a list of integer values. Each integer value corresponds to a character's id.
+Location corresponds to the location of the interaction session. This variable consists of a integer value which is the id number of a location. 

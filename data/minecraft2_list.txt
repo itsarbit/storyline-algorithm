@@ -1,0 +1,2391 @@
+player4,Aethelred	
+player4,Aethelred	
+player4,Aethelred	
+player4,Aethelred	
+player4,Aethelred	
+player4,Aethelred	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+player4,Aethelred,Viktor	
+Yuri,player3	
+Yuri,player3	
+Yuri,player3	
+Yuri,player3	
+Yuri,player3	
+Yuri,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Bakar	
+player4,Bakar	
+player4,Bakar	
+player4,Bakar	
+player4,Bakar	
+player4,Bakar	
+player4,Selwyn	
+player4,Selwyn	
+player4,Selwyn	
+player4,Selwyn	
+player4,Selwyn	
+player4,Selwyn	
+player4,Zarif	Elorri,player3	
+player4,Zarif	Elorri,player3	
+player4,Zarif	Elorri,player3	
+player4,Zarif	Elorri,player3	
+player4,Zarif	Elorri,player3	
+player4,Zarif	Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+Elorri,player3	
+player4,Brogan	
+player4,Brogan	
+player4,Brogan	
+player4,Brogan	
+player4,Brogan	
+player4,Brogan	
+player4,Thjodolf	
+player4,Thjodolf	
+player4,Thjodolf	
+player4,Thjodolf	
+player4,Thjodolf	
+player4,Thjodolf	
+player4,Manton,Musko,Gauthier	
+player4,Manton,Musko,Gauthier	
+player4,Manton,Musko,Gauthier	
+player4,Manton,Musko,Gauthier	
+player4,Manton,Musko,Gauthier	
+player4,Manton,Musko,Gauthier	
+Fyren,player4,player3,Cerdic	
+Fyren,player4,player3,Cerdic	
+Fyren,player4,player3,Cerdic	
+Fyren,player4,player3,Cerdic	
+Fyren,player4,player3,Cerdic	
+Fyren,player4,player3,Cerdic	
+player4,Faran,Zilar	
+player4,Faran,Zilar	
+player4,Faran,Zilar	
+player4,Faran,Zilar	
+player4,Faran,Zilar	
+player4,Faran,Zilar	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+Strang,player1	player3,Brogan	
+Strang,player1	player3,Brogan	
+Strang,player1	player3,Brogan	
+Strang,player1	player3,Brogan	
+Strang,player1	player3,Brogan	
+Strang,player1	player3,Brogan	
+player3,Brogan	
+player3,Brogan	
+player3,Brogan	
+player3,Brogan	
+player3,Brogan	
+player3,Brogan	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Solmund,Wildcat,player1,Ragnar	
+player4,Ragnar	player1,Wildcat	
+player4,Ragnar	player1,Wildcat	
+player4,Ragnar	player1,Wildcat	
+player4,Ragnar	player1,Wildcat	
+player4,Ragnar	player1,Wildcat	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Grindan,player3,Bergthor,Jarah,Loramendi	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Selwyn	player1,Selwyn,Cerdic,Hastein	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Ludvik,player1,Sigulf,Cerdic	player1,Hallfred	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm,Arnfinn	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Ortzi	
+player4,Konrad	
+player4,Konrad	
+player4,Konrad	
+player4,Konrad	
+player4,Konrad	
+player4,Konrad	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Botolf,Konrad,Skapti,Viktor,Zigor	
+player4,Viktor,Zigor	
+player4,Viktor,Zigor	
+player4,Viktor,Zigor	
+player4,Viktor,Zigor	
+player4,Viktor,Zigor	
+player4,Zigor	
+player4,Zigor	
+player4,Zigor	
+player4,Zigor	
+player4,Zigor	
+player1,Cerdic	
+player1,Cerdic	
+player1,Cerdic	
+player1,Cerdic	
+player1,Cerdic	
+player1,Cerdic	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Selwyn	
+player1,Yrre	
+player1,Yrre	
+player1,Yrre	
+player1,Yrre	
+player1,Yrre	
+player1,Yrre	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Bakar,player1,Selwyn,Cerdic	player2,Gremian	
+player4,Cerdic,Bakar	
+player4,Cerdic,Bakar	
+player4,Cerdic,Bakar	
+player4,Cerdic,Bakar	
+player4,Cerdic,Bakar	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Asentzio	
+player2,Asentzio	
+player2,Asentzio	
+player2,Asentzio	
+player2,Asentzio	
+player2,Asentzio	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player2,Gremian,Asentzio	
+player2,Gremian,Asentzio	
+player2,Gremian,Asentzio	
+player2,Gremian,Asentzio	
+player2,Gremian,Asentzio	
+player2,Gremian,Asentzio	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player0,player1	
+player0,player1	
+player0,player1	
+player0,player1	
+player0,player1	
+player0,player1	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player4,Ansar	
+player4,Ansar	
+player4,Ansar	
+player4,Ansar	
+player4,Ansar	
+player4,Ansar	
+Selwyn,player4,Vasilii,Fyren	
+Selwyn,player4,Vasilii,Fyren	
+Selwyn,player4,Vasilii,Fyren	
+Selwyn,player4,Vasilii,Fyren	
+Selwyn,player4,Vasilii,Fyren	
+Selwyn,player4,Vasilii,Fyren	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Athelstan,Sujal,player3	
+player4,Athelstan,Sujal,player3	
+player4,Athelstan,Sujal,player3	
+player4,Athelstan,Sujal,player3	
+player4,Athelstan,Sujal,player3	
+player4,Athelstan,Sujal,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3,Hedin	player0,player2	
+player4,player3,Hedin	player0,player2	
+player4,player3,Hedin	player0,player2	
+player4,player3,Hedin	player0,player2	
+player4,player3,Hedin	player0,player2	
+player4,player3,Hedin	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	player0,player2	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player4,player2,Arnfinn,player0,Strang,Penrith,Enetz	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player4,player2,Govannon,Borya	
+player4,player2,Govannon,Borya	
+player4,player2,Govannon,Borya	
+player4,player2,Govannon,Borya	
+player4,player2,Govannon,Borya	
+player4,player2,Govannon,Borya	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player4,Viktor	
+player4,Viktor	
+player4,Viktor	
+player4,Viktor	
+player4,Viktor	
+player4,Viktor	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+player4,Wyrm	
+Fyren,player4,Warian	
+Fyren,player4,Warian	
+Fyren,player4,Warian	
+Fyren,player4,Warian	
+Fyren,player4,Warian	
+Fyren,player4,Warian	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Amuruza,Vasilii,Cerdic,Bergthor	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki,Strang,Vasilii,Gerhard,Aart	
+player4,Cerdic,player3,Ilazki	
+player4,Cerdic,player3,Ilazki	
+player4,Cerdic,player3,Ilazki	
+player4,Cerdic,player3,Ilazki	
+player4,Cerdic,player3,Ilazki	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3,Gerhard,Aart,Warian	
+player4,Gerhard,player3	
+player4,Gerhard,player3	
+player4,Gerhard,player3	
+player4,Gerhard,player3	
+player4,Gerhard,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,Selwyn,player3,Ansar,Cerdic	player1,Penrith	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,Arano,Gremian,player2,Acennan,Wildcat,player0,player3	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player4,player3	player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Gremian,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	player2,Gremian	
+player4,Argi	
+player4,Argi	
+player4,Argi	
+player4,Argi	
+player4,Argi	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+Fyren,player4,Cerdic,player3	player1,Gremian	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Ozur	
+player4,Ozur	
+player4,Ozur	
+player4,Ozur	
+player4,Ozur	
+player4,Ozur	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+Ogier,player4,Fyren,player3,Fredek	player0,player2	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player2,Gremian,Selwyn,Rheged,Argi,player3	player2,Wildcat	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	player2,Gremian	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player2,Wildcat,Cerdic,Nerian,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,Kol,Halig,player3	Aldhelm,player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad,player3	player0,player2	
+player4,Konrad	player0,player2	
+player4,Konrad	player0,player2	
+player4,Konrad	player0,player2	
+player4,Konrad	player0,player2	
+player4,Konrad	player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player4,player3	Banning,player2,player0	
+player4,player3	Banning,player2,player0	
+player4,player3	Banning,player2,player0	
+player4,player3	Banning,player2,player0	
+player4,player3	Banning,player2,player0	
+player4,player3	Banning,player2,player0	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player4,Akbar,Thorgeir,player3	
+player4,Akbar,Thorgeir,player3	
+player4,Akbar,Thorgeir,player3	
+player4,Akbar,Thorgeir,player3	
+player4,Akbar,Thorgeir,player3	
+player4,Akbar,Thorgeir,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,Vigfus,Leheren,Lodin,Cerdic,Bergthor,Ivar,player3	
+player4,Isleif,player3	
+player4,Isleif,player3	
+player4,Isleif,player3	
+player4,Isleif,player3	
+player4,Isleif,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,Leheren,Teobaldo,Brand,Wregan,Jatsu,Selwyn,player3,Grisha,Alrik,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic,Kol,Selwyn,Wyrm,player3	player2,Gremian	
+player4,Cerdic	player2,Gremian	
+player4,Cerdic	player2,Gremian	
+player4,Cerdic	player2,Gremian	
+player4,Cerdic	player2,Gremian	
+player4,Cerdic	player2,Gremian	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+player4,Cerdic,Hedeon,Fyren,player3	player0,player2,Gremian	
+Fyren,player4,Cerdic	player0,player2	
+Fyren,player4,Cerdic	player0,player2	
+Fyren,player4,Cerdic	player0,player2	
+Fyren,player4,Cerdic	player0,player2	
+Fyren,player4,Cerdic	player0,player2	
+player4,Cerdic	player0,player2	
+player4,Cerdic	player0,player2	
+player4,Cerdic	player0,player2	
+player4,Cerdic	player0,player2	
+player4,Cerdic	player0,player2	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Vasilii	
+player4,Melchior,Akbar,Fyren,player3	
+player4,Melchior,Akbar,Fyren,player3	
+player4,Melchior,Akbar,Fyren,player3	
+player4,Melchior,Akbar,Fyren,player3	
+player4,Melchior,Akbar,Fyren,player3	
+player4,Melchior,Akbar,Fyren,player3	
+Melchior,player4,player3	
+Melchior,player4,player3	
+Melchior,player4,player3	
+Melchior,player4,player3	
+Melchior,player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,Kol,Zivon,Olaf,Hallfred,player3,Viktor	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,Mikhail,Warian,player0,Gremian,player3	
+player4,player2,player0,Gremian,player3	
+player4,player2,player0,Gremian,player3	
+player4,player2,player0,Gremian,player3	
+player4,player2,player0,Gremian,player3	
+player4,player2,player0,Gremian,player3	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player0,player2,Hedeon	
+player0,player2,Hedeon	
+player0,player2,Hedeon	
+player0,player2,Hedeon	
+player0,player2,Hedeon	
+player0,player2,Hedeon	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+Yurik,player4,Jermija,Fish,Vasilii	
+Yurik,player4,Jermija,Fish,Vasilii	
+Yurik,player4,Jermija,Fish,Vasilii	
+Yurik,player4,Jermija,Fish,Vasilii	
+Yurik,player4,Jermija,Fish,Vasilii	
+Yurik,player4,Jermija,Fish,Vasilii	
+player4,Fish	
+player4,Fish	
+player4,Fish	
+player4,Fish	
+player4,Fish	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,Samir,player3	Anhaga,player2,Athelstan	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,Nailah,Anaia,Ragnar,Galindo,Tosti,player3,Sharifu,Arnfinn	player1,Wildcat,Pyotr,Aldred	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+Umea,player1,Moriz	player0,Frog	
+Umea,player1,Moriz	player0,Frog	
+Umea,player1,Moriz	player0,Frog	
+Umea,player1,Moriz	player0,Frog	
+Umea,player1,Moriz	player0,Frog	
+Umea,player1,Moriz	player0,Frog	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Hrut,Gremian	
+Ogier,player2,Aldhelm,Gremian	
+Ogier,player2,Aldhelm,Gremian	
+Ogier,player2,Aldhelm,Gremian	
+Ogier,player2,Aldhelm,Gremian	
+Ogier,player2,Aldhelm,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+player2,Gremian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+Boar,player2,player0,player1,Gremian,Otrygg,Cerdic,Derian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2,Gremian	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2,Osric	
+player0,player2,Osric	
+player0,player2,Osric	
+player0,player2,Osric	
+player0,player2,Osric	
+player0,player2,Osric	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,Hrut,player2	
+Ormod,Hrut,player2	
+Ormod,Hrut,player2	
+Ormod,Hrut,player2	
+Ormod,Hrut,player2	
+Ormod,Hrut,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+Ormod,player2	
+player4,Lar,player1,Ragnar	
+player4,Lar,player1,Ragnar	
+player4,Lar,player1,Ragnar	
+player4,Lar,player1,Ragnar	
+player4,Lar,player1,Ragnar	
+player4,Lar,player1,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Ragnar	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,Gunnar,player3,Rayhaan,Hedin,Cerdic,Ragnar	player1,Pyotr	player2,Kashif	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,Adrik,player3,Gauthier	Frog,player2,Wildcat,player0,player1,Kashif	
+player4,player3	player0,player1	player2,Wildcat,Kashif	
+player4,player3	player0,player1	player2,Wildcat,Kashif	
+player4,player3	player0,player1	player2,Wildcat,Kashif	
+player4,player3	player0,player1	player2,Wildcat,Kashif	
+player4,player3	player0,player1	player2,Wildcat,Kashif	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,Gunnar,player3,Maccus,Cerdic	player1,Aldhelm,player2	
+player4,player3,Cerdic	player2,player1	
+player4,player3,Cerdic	player2,player1	
+player4,player3,Cerdic	player2,player1	
+player4,player3,Cerdic	player2,player1	
+player4,player3,Cerdic	player2,player1	
+Motya,player2,player1	
+Motya,player2,player1	
+Motya,player2,player1	
+Motya,player2,player1	
+Motya,player2,player1	
+Motya,player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1,Aldred	
+player2,player1,Aldred	
+player2,player1,Aldred	
+player2,player1,Aldred	
+player2,player1,Aldred	
+player2,player1,Aldred	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,Gardi,player1,Otrygg	
+player2,Gardi,player1,Otrygg	
+player2,Gardi,player1,Otrygg	
+player2,Gardi,player1,Otrygg	
+player2,Gardi,player1,Otrygg	
+player2,Gardi,player1,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+player2,Otrygg	
+Arnfinn,player2,Runolf,Nigel,Osric	
+Arnfinn,player2,Runolf,Nigel,Osric	
+Arnfinn,player2,Runolf,Nigel,Osric	
+Arnfinn,player2,Runolf,Nigel,Osric	
+Arnfinn,player2,Runolf,Nigel,Osric	
+Arnfinn,player2,Runolf,Nigel,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2,Ragnar,Sigtrygg,Osric	
+Grindan,player2	
+Grindan,player2	
+Grindan,player2	
+Grindan,player2	
+Grindan,player2	
+player4,player3	player2,Wildcat,Alfred	
+player4,player3	player2,Wildcat,Alfred	
+player4,player3	player2,Wildcat,Alfred	
+player4,player3	player2,Wildcat,Alfred	
+player4,player3	player2,Wildcat,Alfred	
+player4,player3	player2,Wildcat,Alfred	
+player2,Wildcat,Alfred	
+player2,Wildcat,Alfred	
+player2,Wildcat,Alfred	
+player2,Wildcat,Alfred	
+player2,Wildcat,Alfred	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Wildcat	
+player2,Alfred,Starkad	
+player2,Alfred,Starkad	
+player2,Alfred,Starkad	
+player2,Alfred,Starkad	
+player2,Alfred,Starkad	
+player2,Alfred,Starkad	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Didier,player1	player2,Derian	
+Didier,player1	player2,Derian	
+Didier,player1	player2,Derian	
+Didier,player1	player2,Derian	
+Didier,player1	player2,Derian	
+Didier,player1	player2,Derian	
+player2,Derian	
+player2,Derian	
+player2,Derian	
+player2,Derian	
+player2,Derian	
+player2,Thrain,Lucan	
+player2,Thrain,Lucan	
+player2,Thrain,Lucan	
+player2,Thrain,Lucan	
+player2,Thrain,Lucan	
+player2,Thrain,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Lucan	
+player2,Thrain,Nigel,Osric	
+player2,Thrain,Nigel,Osric	
+player2,Thrain,Nigel,Osric	
+player2,Thrain,Nigel,Osric	
+player2,Thrain,Nigel,Osric	
+player2,Thrain,Nigel,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+player2,Osric	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2	
+Ogier,player2,Osric	
+Ogier,player2,Osric	
+Ogier,player2,Osric	
+Ogier,player2,Osric	
+Ogier,player2,Osric	
+Ogier,player2,Osric	
+player4,player2,Urre	
+player4,player2,Urre	
+player4,player2,Urre	
+player4,player2,Urre	
+player4,player2,Urre	
+player4,player2,Urre	
+player4,player2,Derian,Motya	
+player4,player2,Derian,Motya	
+player4,player2,Derian,Motya	
+player4,player2,Derian,Motya	
+player4,player2,Derian,Motya	
+player4,player2,Derian,Motya	
+player4,player2,Derian	
+player4,player2,Derian	
+player4,player2,Derian	
+player4,player2,Derian	
+player4,player2,Derian	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,Edric,Cerdic,Eirik	
+player4,Edric,Cerdic,Eirik	
+player4,Edric,Cerdic,Eirik	
+player4,Edric,Cerdic,Eirik	
+player4,Edric,Cerdic,Eirik	
+player4,Edric,Cerdic,Eirik	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player4,Cerdic	player1,Penrith	player2,Deogol	
+player2,Deogol	
+player2,Deogol	
+player2,Deogol	
+player2,Deogol	
+player2,Deogol	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+Wregan,Dima,Garaile,Bork,Antso,Murshid,player1,Penrith	
+player1,Penrith	
+player1,Penrith	
+player1,Penrith	
+player1,Penrith	
+player1,Penrith	
+player4,player1,Cerdic,player3	
+player4,player1,Cerdic,player3	
+player4,player1,Cerdic,player3	
+player4,player1,Cerdic,player3	
+player4,player1,Cerdic,player3	
+player4,player1,Cerdic,player3	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,player3,Thjodolf	player1,Wildcat	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Viktor,player3,Ragnar	player1,Modig,Godric	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cynric,Boris	player1,Penrith,Sharifu	
+player4,Cerdic,Brogan	
+player4,Cerdic,Brogan	
+player4,Cerdic,Brogan	
+player4,Cerdic,Brogan	
+player4,Cerdic,Brogan	
+player4,Cerdic,Brogan	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+player4,Larra	
+Yakov,player4,player3	
+Yakov,player4,player3	
+Yakov,player4,player3	
+Yakov,player4,player3	
+Yakov,player4,player3	
+Yakov,player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player4,player3	player2,Wildcat	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,Vanechka,player1,Osric	
+player2,Vanechka,player1,Osric	
+player2,Vanechka,player1,Osric	
+player2,Vanechka,player1,Osric	
+player2,Vanechka,player1,Osric	
+player2,Vanechka,player1,Osric	
+player2,Osric,Vanechka	
+player2,Osric,Vanechka	
+player2,Osric,Vanechka	
+player2,Osric,Vanechka	
+player2,Osric,Vanechka	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Maccus,Lastur,Adrik,Arnor	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,Lastur	
+player2,player1,Hord	
+player2,player1,Hord	
+player2,player1,Hord	
+player2,player1,Hord	
+player2,player1,Hord	
+player2,player1,Hord	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player1,Nerian,Ottar	
+player1,Nerian,Ottar	
+player1,Nerian,Ottar	
+player1,Nerian,Ottar	
+player1,Nerian,Ottar	
+player1,Nerian,Ottar	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Aki,Samir	
+player2,Oxa,Iztal	
+player2,Oxa,Iztal	
+player2,Oxa,Iztal	
+player2,Oxa,Iztal	
+player2,Oxa,Iztal	
+player2,Oxa,Iztal	
+player2,Karolek,Tal	
+player2,Karolek,Tal	
+player2,Karolek,Tal	
+player2,Karolek,Tal	
+player2,Karolek,Tal	
+player2,Karolek,Tal	
+player4,player2,Cerdic	
+player4,player2,Cerdic	
+player4,player2,Cerdic	
+player4,player2,Cerdic	
+player4,player2,Cerdic	
+player4,player2,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+player4,Cerdic	
+Thorir,player4,Viktor,player3	
+Thorir,player4,Viktor,player3	
+Thorir,player4,Viktor,player3	
+Thorir,player4,Viktor,player3	
+Thorir,player4,Viktor,player3	
+Thorir,player4,Viktor,player3	
+player4,Viktor,player3	
+player4,Viktor,player3	
+player4,Viktor,player3	
+player4,Viktor,player3	
+player4,Viktor,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,player3	player1,Gaur	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,Pig,Bakar,Melchior,player3	player1,Hallfred,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	player1,Sarlic,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	player1,Cerdic,Penrith	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Konrad,player3,Oleg	
+player4,Konrad,player3,Oleg	
+player4,Konrad,player3,Oleg	
+player4,Konrad,player3,Oleg	
+player4,Konrad,player3,Oleg	
+player4,Konrad,player3,Oleg	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Konrad,Gunnar,Halig,Viktor,player3,Ragnar	Faran,player1	
+player4,Gunnar,Viktor,player3,Ragnar	
+player4,Gunnar,Viktor,player3,Ragnar	
+player4,Gunnar,Viktor,player3,Ragnar	
+player4,Gunnar,Viktor,player3,Ragnar	
+player4,Gunnar,Viktor,player3,Ragnar	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,Faran,player1,Ormod,Wildcat,Eusko,Thrain,player3,Cerdic	
+player4,player3	Faran,player1,Thrain	
+player4,player3	Faran,player1,Thrain	
+player4,player3	Faran,player1,Thrain	
+player4,player3	Faran,player1,Thrain	
+player4,player3	Faran,player1,Thrain	
+player1,Thrain	Lucan,player3	player0,player2	
+player1,Thrain	Lucan,player3	player0,player2	
+player1,Thrain	Lucan,player3	player0,player2	
+player1,Thrain	Lucan,player3	player0,player2	
+player1,Thrain	Lucan,player3	player0,player2	
+player1,Thrain	Lucan,player3	player0,player2	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn,player1	
+player0,player2,Selwyn	
+player0,player2,Selwyn	
+player0,player2,Selwyn	
+player0,player2,Selwyn	
+player0,player2,Selwyn	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2,Lastur,Alfred	
+player0,player2,Lastur,Alfred	
+player0,player2,Lastur,Alfred	
+player0,player2,Lastur,Alfred	
+player0,player2,Lastur,Alfred	
+player0,player2,Lastur,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2,Alfred	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+Maalik,player2,Maccus,player0,player1	
+Maalik,player2,Maccus,player0,player1	
+Maalik,player2,Maccus,player0,player1	
+Maalik,player2,Maccus,player0,player1	
+Maalik,player2,Maccus,player0,player1	
+Maalik,player2,Maccus,player0,player1	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+Yuri,Jasha,player2,Atol,player0,Adolphus,Gaztea	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,Sturla,Leonide,Helgi,Awiergan,player3	Ormod,player2	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,Akbar,Valgard,Eldgrim,Valfrid,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,Thorgeir,Valgard,player3	
+player4,Thorgeir,Valgard,player3	
+player4,Thorgeir,Valgard,player3	
+player4,Thorgeir,Valgard,player3	
+player4,Thorgeir,Valgard,player3	
+player4,Thorgeir,Valgard,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3,Reyhan	
+player4,player3,Reyhan	
+player4,player3,Reyhan	
+player4,player3,Reyhan	
+player4,player3,Reyhan	
+player4,player3,Reyhan	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3,Sigtrygg	
+player4,player3,Sigtrygg	
+player4,player3,Sigtrygg	
+player4,player3,Sigtrygg	
+player4,player3,Sigtrygg	
+player4,player3,Sigtrygg	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player2,Kol	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player0,player2	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Halig	
+player2,Halig	
+player2,Halig	
+player2,Halig	
+player2,Halig	
+player2,Halig	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+Polentzi,player2	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,player1	
+player2,Trymman,Osric	
+player2,Trymman,Osric	
+player2,Trymman,Osric	
+player2,Trymman,Osric	
+player2,Trymman,Osric	
+player2,Trymman,Osric	
+player4,player2,Viktor,player3	
+player4,player2,Viktor,player3	
+player4,player2,Viktor,player3	
+player4,player2,Viktor,player3	
+player4,player2,Viktor,player3	
+player4,player2,Viktor,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Wildcat	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	player1,Thrain,Cerdic	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+Samir,player1,Hallfred,Penrith	
+Samir,player1,Hallfred,Penrith	
+Samir,player1,Hallfred,Penrith	
+Samir,player1,Hallfred,Penrith	
+Samir,player1,Hallfred,Penrith	
+Samir,player1,Hallfred,Penrith	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+Imanol,Erian,player1,Hallfred,Penrith	Ormod,player2	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Yuri	
+player2,Arnor	
+player2,Arnor	
+player2,Arnor	
+player2,Arnor	
+player2,Arnor	
+player2,Arnor	
+player1,Halig	
+player1,Halig	
+player1,Halig	
+player1,Halig	
+player1,Halig	
+player1,Halig	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+Cerdic,player3	
+player4,Samir,Wregan,player3	
+player4,Samir,Wregan,player3	
+player4,Samir,Wregan,player3	
+player4,Samir,Wregan,player3	
+player4,Samir,Wregan,player3	
+player4,Samir,Wregan,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3	
+player4,player3

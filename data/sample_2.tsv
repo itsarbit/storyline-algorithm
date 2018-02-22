@@ -1,0 +1,30 @@
+0
+1	A,B,C	D,E
+2	A,B,C	D,E,F,G
+3	A,B,C	D,E,F,G
+4	A,B,C	D,G
+5	H,I	D,G
+6	H,I	D,G
+7	A,B,C	J,I,H
+8	J,I	K,L,M	A,B,C
+9	C,J,I	K,L,M	A,B
+10	C,J	K,L,M
+11	C,J,G	L,M
+12	A,J,G	L,M,N
+13	A,B	C,H	M,N	J,G
+14	A,B,C	L,H	M,N
+15	B,C	L,H	M,N
+16	B,C	L,H	N
+17	A,C	B	L,H,K	M,N
+18	A,B,C	M,N	L,H,K
+19	A,B	M,N	L,H,K	V,W,X,Y
+20	A,B	M,N	L,H,K	V,W,X,Y
+21	L,H,K	V,W,X,Y
+22	W,X,Y	H,K	A,B,C
+23	G,H	W,X	Y,A,B
+24	G,H	W,X,A,B
+25	G,H	W,X,A,B
+26	A,B	G,M	H,W
+27	A,B	G,M
+28	A,B,W	G,M	H,X
+29	A,B,W	H,X

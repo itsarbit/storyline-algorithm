@@ -1,0 +1,92 @@
+ing,corrod,duron	dishoggogy,bodron,chaming,twashovure,kardure,bal,hadtomenst,sal,waymnar,channar,pelloweron,goldectica,hadpescrat,quarlocogy,pon,authelrod,golsum,comeive,ruclar	miric,grogy,clamabl,due	aflbrody,golses,marlunt,senctit,aflcron,buggina,sic,partminron,medickelo,derwalrod,comarib,trob,conron,mut,induousrod,covindi,actrod,ponspec,horturure,madern,ble,golcom,irry,inefrodogy	hadwarced,inethro,dic,kart,arvatrod,kissumprod,folterpron,sawkindogy,golrchric,serissw,haddivande,afldectio,soidelo,ill,adetry,cory,spent,colt,trogelo
+ing,corrod,duron	dishoggogy,bodron,chaming,twashovure,bal,channar,goldectica,hadpescrat,quarlocogy,pon,authelrod,comeive,ruclar,kardure,hadtomenst,sal,waymnar,pelloweron,golsum	miric,clamabl,grogy,due	golses,marlunt,senctit,aflcron,buggina,sic,partminron,derwalrod,comarib,trob,mut,induousrod,covindi,actrod,ponspec,horturure,madern,ble,irry,inefrodogy,aflbrody,medickelo,conron,golcom	folterpron,golrchric,ill,hadwarced,inethro,dic,kart,arvatrod,kissumprod,sawkindogy,serissw,haddivande,afldectio,soidelo,adetry,cory,spent,colt,trogelo
+partminron,golrchric,folterpron,clamabl,ill,ruclar	pon,miric	golses,dishoggogy,marlunt,aflcron,actrod,sic,derwalrod,covindi,buggina,comarib,trob,mut,induousrod,senctit,channar,goldectica,ponspec,horturure,ble,irry,madern,inefrodogy	twashovure,bodron,bal,hadpescrat,quarlocogy,authelrod,comeive,chaming
+pon,partminron,golrchric	golses,dishoggogy,marlunt,sic,actrod,derwalrod,covindi,buggina,irry,trob,mut,induousrod,senctit,channar,goldectica,comarib,hadpescrat,ponspec,authelrod,horturure,comeive,ble,chaming,madern,inefrodogy,aflcron	twashovure,bodron,bal,quarlocogy
+golses,dishoggogy,marlunt,bodron,actrod,sic,derwalrod,covindi,buggina,comarib,trob,mut,bal,induousrod,senctit,channar,goldectica,hadpescrat,ponspec,horturure,comeive,ble,chaming,irry,inefrodogy,twashovure,madern	quarlocogy,pon,authelrod
+induousrod	golses,dishoggogy,marlunt,actrod,bodron,covindi,buggina,trob,mut,bal,senctit,channar,goldectica,hadpescrat,ponspec,horturure,comeive,ble,chaming,irry,inefrodogy,sic,derwalrod,comarib	authelrod,quarlocogy,pon
+induousrod	golses,dishoggogy,marlunt,actrod,bodron,covindi,irry,trob,mut,bal,goldectica,hadpescrat,ponspec,horturure,comeive,ble,chaming,inefrodogy,senctit,channar,buggina	authelrod
+induousrod	marlunt,hadpescrat,golses,dishoggogy,irry,ble,trob,horturure,bodron,comeive,mut,bal,actrod,chaming,inefrodogy,ponspec,covindi,goldectica	authelrod
+golses,bal,chaming	dishoggogy,irry,marlunt,ble,horturure,mut,actrod,ponspec,trob,comeive,hadpescrat,bodron,inefrodogy	authelrod
+golses,bal,chaming	marlunt,dishoggogy,irry,actrod,horturure,mut,ble,ponspec
+bal,golses	marlunt,dishoggogy,irry,actrod,horturure,mut,ble,ponspec
+bal	marlunt,dishoggogy,irry,ble,horturure,mut,actrod,ponspec
+marlunt,dishoggogy,irry,ble,horturure,mut,actrod,ponspec
+marlunt,dishoggogy,irry,ble,horturure,mut,actrod,ponspec
+marlunt,dishoggogy,irry,ble,horturure,mut,actrod,ponspec
+mut	marlunt,dishoggogy,irry,actrod,horturure,ble,ponspec
+actrod,mut,ponspec	marlunt,dishoggogy,irry,horturure,ble
+mut,actrod,ponspec	marlunt,irry,ble,horturure,dishoggogy
+mut,actrod,ponspec	marlunt,irry,ble,horturure
+mut,actrod,ponspec	irry,marlunt
+mut,actrod	irry,marlunt
+mut	irry,marlunt
+mut	irry,marlunt
+mut	irry,marlunt
+mut	irry,marlunt
+irry,marlunt
+irry,marlunt
+irry,marlunt
+irry,marlunt
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+irry
+inefrodogy	hadndlios,wainnow,dic,medickelo,golhadeftw,seel,properl,afldectio,ill,colt,sprever	bedicrod,cater,golprity	plarelo,dishoggogy,marlunt,buggina,ing,corrod,madern,duron,legisatsat,gran,goldectica,ponspec,chratinogy,golvive,hadpescrat,readium,ble	aflbrody,indform,golses,grap,aflcon,actrod,conron,partminron,baneta,kart,irry,trob,actest,itiont,botentelo,bal,clamabl,induousrod,illoning,resdry,goleewron,golrchric,vackaxure,quarlocogy,aflcron,pon,covindi,soidelo,horturure,comeive,chaming,aflflaced
+inefrodogy	dic,hadndlios,wainnow,medickelo,golhadeftw,seel,properl,afldectio,ill,colt,sprever	bedicrod,cater,golprity	plarelo,dishoggogy,marlunt,buggina,ing,corrod,madern,duron,legisatsat,gran,goldectica,ponspec,chratinogy,hadpescrat,readium,ble,golvive	golses,grap,aflcon,actrod,conron,partminron,baneta,kart,irry,trob,actest,botentelo,bal,clamabl,induousrod,illoning,goleewron,golrchric,quarlocogy,aflcron,pon,covindi,horturure,comeive,chaming,aflflaced,aflbrody,indform,itiont,resdry,vackaxure,soidelo
+gran	trob,pon,grap,aflcon,dic,botentelo,baneta	plarelo,dishoggogy,marlunt,buggina,conron,ing,corrod,partminron,irry,induousrod,duron,goleewron,goldectica,chratinogy,hadpescrat,aflcron,ponspec,legisatsat,covindi,readium,comeive,ble,aflflaced,madern	golses,actrod,actest,quarlocogy,chaming,kart,bal,clamabl,illoning,golrchric,horturure
+plarelo,golses,dishoggogy,marlunt,actrod,conron,ing,corrod,partminron,irry,induousrod,duron,covindi,goleewron,goldectica,chratinogy,hadpescrat,buggina,ponspec,legisatsat,readium,madern,comeive,ble,chaming,aflflaced,aflcron	quarlocogy,trob,pon,actest
+dishoggogy	plarelo,golses,marlunt,actrod,conron,ing,partminron,irry,duron,corrod,goldectica,chratinogy,hadpescrat,ponspec,readium,comeive,ble,chaming,aflflaced,aflcron,covindi,induousrod,buggina,legisatsat,madern	quarlocogy,trob,goleewron,pon
+dishoggogy	plarelo,golses,marlunt,actrod,conron,ing,corrod,partminron,irry,duron,goldectica,chratinogy,hadpescrat,ponspec,readium,comeive,ble,chaming,aflcron,aflflaced	trob,quarlocogy,pon,goleewron
+dishoggogy,partminron	plarelo,golses,marlunt,actrod,conron,ing,corrod,irry,duron,goldectica,chratinogy,hadpescrat,ponspec,readium,comeive,ble,chaming,aflcron	trob,quarlocogy,pon
+dishoggogy,partminron	plarelo,golses,ing,corrod,irry,duron,goldectica,chratinogy,hadpescrat,ponspec,ble,chaming,aflcron,marlunt,actrod,conron,readium	trob,quarlocogy,pon,comeive
+dishoggogy	corrod,plarelo,golses,ponspec,irry,goldectica,chaming,hadpescrat,ble,duron,chratinogy,aflcron,ing	pon,comeive,trob,quarlocogy
+golses	corrod,plarelo,ponspec,irry,goldectica,chaming,hadpescrat,ble,duron,chratinogy,aflcron,ing	pon,comeive
+golses,aflcron,plarelo	corrod,irry,goldectica,chratinogy,hadpescrat,ble,duron,ponspec,chaming,ing	pon,comeive
+golses,aflcron	corrod,irry,goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing,ble	pon
+golses	corrod,irry,goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing	pon
+corrod	irry,goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing	pon
+corrod	goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing,irry	pon
+corrod	goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing	pon
+corrod	goldectica,duron,chratinogy,hadpescrat,chaming,ponspec,ing	pon
+goldectica,chaming,chratinogy,hadpescrat,duron,ponspec,ing	pon
+chratinogy,ing	goldectica,chaming,hadpescrat,duron,ponspec
+duron,chratinogy,ing	goldectica,hadpescrat,chaming,ponspec
+duron,chratinogy,ing	goldectica,chaming,ponspec,hadpescrat
+duron,chratinogy,ing	goldectica,chaming,ponspec
+duron,ing,chratinogy	chaming,ponspec,goldectica
+duron,ing	chaming,ponspec
+duron	chaming,ponspec
+chaming,ponspec
+chaming,ponspec
+chaming,ponspec
+chaming,ponspec
+ponspec,chaming
+ponspec
+ponspec
+ponspec
+ponspec
+ponspec
+ponspec
+ponspec
+ponspec
+ponspec

@@ -1,0 +1,3650 @@
+Archoru,player0	Frog,player1	
+Archoru,player0	Frog,player1	
+Archoru,player0	Frog,player1	
+Archoru,player0	Frog,player1	
+Archoru,player0	Frog,player1	
+Archoru,player0	Frog,player1	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Anstama,Pannios,player0,Mikhail,player1,Lucan,Ador,Nictaph,Selwyn	Kalios,Cles,player4,Homon	
+Nikhius,player2	Selwyn,Mikhail,player1,player0	player4,Kalios	
+Nikhius,player2	Selwyn,Mikhail,player1,player0	player4,Kalios	
+Nikhius,player2	Selwyn,Mikhail,player1,player0	player4,Kalios	
+Nikhius,player2	Selwyn,Mikhail,player1,player0	player4,Kalios	
+Nikhius,player2	Selwyn,Mikhail,player1,player0	player4,Kalios	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Sano,Telafko,player2,Beneate	Gaztea,Frog,player3,player1,Chris,player0,Zeroun,Spyris,Athelstan,Selwyn,Lucaios,Cynric,Theros	Iastos,player4,Kalios,Socodon	Gaztea,player3,Asentzio	
+Telafko,player2	Iastos,player4	Frog,player3,Spyris	
+Telafko,player2	Iastos,player4	Frog,player3,Spyris	
+Telafko,player2	Iastos,player4	Frog,player3,Spyris	
+Telafko,player2	Iastos,player4	Frog,player3,Spyris	
+Telafko,player2	Iastos,player4	Frog,player3,Spyris	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Feodros,Amuruza,player2	Khanola,player0,Balisto,Aldhelm,Vigfus,Manton	Nictaph,Mikhail,player1	player3,Samir,Damiano,Thorgeir	
+Aldhelm,player0,Khanola,Manton	player3,Damiano	
+Aldhelm,player0,Khanola,Manton	player3,Damiano	
+Aldhelm,player0,Khanola,Manton	player3,Damiano	
+Aldhelm,player0,Khanola,Manton	player3,Damiano	
+Aldhelm,player0,Khanola,Manton	player3,Damiano	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2,Timos	Lucan,Khanola,Govannon,Mikodor,Klenost,player0,player3	Demus,player4	Arion,player3,Samir,Kol	
+Feodros,player2	player0,Govannon	Klenost,player3	
+Feodros,player2	player0,Govannon	Klenost,player3	
+Feodros,player2	player0,Govannon	Klenost,player3	
+Feodros,player2	player0,Govannon	Klenost,player3	
+Feodros,player2	player0,Govannon	Klenost,player3	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player0,Govannon	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player3,player4,Athelstan,Vigfus,Neksios,Dinouka,Ainedic,Sigulf,Otrygg,Apocral,player2,Amuruza,Selwyn,Euphael,player0,Kris,Pig	Chris,player0,Niktavr	
+player0,Vigfus,Pig	
+player0,Vigfus,Pig	
+player0,Vigfus,Pig	
+player0,Vigfus,Pig	
+player0,Vigfus,Pig	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Pyotr,Euphael,Jatsu,player0,player2,Hes	Lucan,Chris,player0	Greni,player3	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Kris,Nict,player0,Perasiu,Selwyn,Konyssi,Anaia,Aldhelm,Thenekt,Kles,Tannios	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Anis,Selwyn,Valfrid,Faran,Apolo,player0,Strang,Leonide	
+Selwyn,player0,Strang	
+Selwyn,player0,Strang	
+Selwyn,player0,Strang	
+Selwyn,player0,Strang	
+Selwyn,player0,Strang	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0,Thjodolf,Tal,Ainikio	Viktor,player3	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Viktor,player0	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Didier,player2,Maccus,Stas	
+Didier,player2,Maccus,Stas	
+Didier,player2,Maccus,Stas	
+Didier,player2,Maccus,Stas	
+Didier,player2,Maccus,Stas	
+Didier,player2,Maccus,Stas	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+player3,Acherak	
+player3,Acherak	
+player3,Acherak	
+player3,Acherak	
+player3,Acherak	
+player3,Acherak	
+Imanol,player3,Boris	
+Imanol,player3,Boris	
+Imanol,player3,Boris	
+Imanol,player3,Boris	
+Imanol,player3,Boris	
+Imanol,player3,Boris	
+player4,Olaf	
+player4,Olaf	
+player4,Olaf	
+player4,Olaf	
+player4,Olaf	
+player4,Olaf	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Frog,player4	Boar,Nictaph,player1	Athios,player3	
+Sarlic,player1	Bergthor,player3	
+Sarlic,player1	Bergthor,player3	
+Sarlic,player1	Bergthor,player3	
+Sarlic,player1	Bergthor,player3	
+Sarlic,player1	Bergthor,player3	
+Sarlic,player1	Bergthor,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Vas,player4,Kol	Bergthor,player3	
+Vas,player4,Kol	Bergthor,player3	
+Vas,player4,Kol	Bergthor,player3	
+Vas,player4,Kol	Bergthor,player3	
+Vas,player4,Kol	Bergthor,player3	
+Vas,player4,Kol	Bergthor,player3	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+Angerme,player3	
+Angerme,player3	
+Angerme,player3	
+Angerme,player3	
+Angerme,player3	
+Angerme,player3	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Gerhard,Selwyn,Garaile,Valgard,player0,Penrith,Yurik,Gaur	
+Valgard,Selwyn,player0,Gaur	
+Valgard,Selwyn,player0,Gaur	
+Valgard,Selwyn,player0,Gaur	
+Valgard,Selwyn,player0,Gaur	
+Valgard,Selwyn,player0,Gaur	
+Ambrokl,player0	
+Ambrokl,player0	
+Ambrokl,player0	
+Ambrokl,player0	
+Ambrokl,player0	
+Ambrokl,player0	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+Euph,player3,Isi,Euphael,player0,Heres,Tal	
+player0,Isi	
+player0,Isi	
+player0,Isi	
+player0,Isi	
+player0,Isi	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Maklis	
+player3,Maklis	
+player3,Maklis	
+player3,Maklis	
+player3,Maklis	
+player3,Maklis	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,Sophori,player2,Apologe,Theopio	Faran,player3	
+Amuruza,player2	Faran,player3	
+Amuruza,player2	Faran,player3	
+Amuruza,player2	Faran,player3	
+Amuruza,player2	Faran,player3	
+Amuruza,player2	Faran,player3	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Adoreas,Nes,Stereia,player2,Yaneksi	Faran,player3,Maklis	
+Faran,player3	
+Faran,player3	
+Faran,player3	
+Faran,player3	
+Faran,player3	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+player0,Vastius,Oxa	player3,Isleif,Adoreas,Savros,Deogol	
+Chailts,player1	Eldgrim,Tas,player3	
+Chailts,player1	Eldgrim,Tas,player3	
+Chailts,player1	Eldgrim,Tas,player3	
+Chailts,player1	Eldgrim,Tas,player3	
+Chailts,player1	Eldgrim,Tas,player3	
+Chailts,player1	Eldgrim,Tas,player3	
+Eldgrim,player3	
+Eldgrim,player3	
+Eldgrim,player3	
+Eldgrim,player3	
+Eldgrim,player3	
+player4,Lodin,Solmund	player3,Halig	
+player4,Lodin,Solmund	player3,Halig	
+player4,Lodin,Solmund	player3,Halig	
+player4,Lodin,Solmund	player3,Halig	
+player4,Lodin,Solmund	player3,Halig	
+player4,Lodin,Solmund	player3,Halig	
+player4,Theor	player3,Manton	
+player4,Theor	player3,Manton	
+player4,Theor	player3,Manton	
+player4,Theor	player3,Manton	
+player4,Theor	player3,Manton	
+player4,Theor	player3,Manton	
+player4,Hierist	Gaztea,player3	
+player4,Hierist	Gaztea,player3	
+player4,Hierist	Gaztea,player3	
+player4,Hierist	Gaztea,player3	
+player4,Hierist	Gaztea,player3	
+player4,Hierist	Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Greni,player3	
+Greni,player3	
+Greni,player3	
+Greni,player3	
+Greni,player3	
+Greni,player3	
+player4,Oxa	
+player4,Oxa	
+player4,Oxa	
+player4,Oxa	
+player4,Oxa	
+player4,Oxa	
+Lys,player0	
+Lys,player0	
+Lys,player0	
+Lys,player0	
+Lys,player0	
+Lys,player0	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,player0,Greas,Arkhimi,Ludvik,Dimespe,Isleif,Diminop,Samir	
+Yervant,Isleif,player0,Ludvik	
+Yervant,Isleif,player0,Ludvik	
+Yervant,Isleif,player0,Ludvik	
+Yervant,Isleif,player0,Ludvik	
+Yervant,Isleif,player0,Ludvik	
+player0,Ludvik	
+player0,Ludvik	
+player0,Ludvik	
+player0,Ludvik	
+player0,Ludvik	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+Viktor,Isios,player3,Tal	
+Viktor,Isios,player3,Tal	
+Viktor,Isios,player3,Tal	
+Viktor,Isios,player3,Tal	
+Viktor,Isios,player3,Tal	
+Viktor,Isios,player3,Tal	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player4	Bergthor,player1	player3,Ludvik	
+Hastein,player3,Tal	
+Hastein,player3,Tal	
+Hastein,player3,Tal	
+Hastein,player3,Tal	
+Hastein,player3,Tal	
+Hastein,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+player0,Rayhaan	Gaztea,player3,Tal	
+Cerdic,player2	player1,Fyren	
+Cerdic,player2	player1,Fyren	
+Cerdic,player2	player1,Fyren	
+Cerdic,player2	player1,Fyren	
+Cerdic,player2	player1,Fyren	
+Cerdic,player2	player1,Fyren	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+Lucan,Kol,player2,Halig	Aldhelm,player0	Musko,player4,Gunnar	
+player2,Banning	player4,Thjodolf	
+player2,Banning	player4,Thjodolf	
+player2,Banning	player4,Thjodolf	
+player2,Banning	player4,Thjodolf	
+player2,Banning	player4,Thjodolf	
+player2,Banning	player4,Thjodolf	
+Wildcat,player4,Sharifu	
+Wildcat,player4,Sharifu	
+Wildcat,player4,Sharifu	
+Wildcat,player4,Sharifu	
+Wildcat,player4,Sharifu	
+Wildcat,player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Sharifu	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+player4,Yakov	
+Arnor,player3	
+Arnor,player3	
+Arnor,player3	
+Arnor,player3	
+Arnor,player3	
+Arnor,player3	
+Akbar,player1	player3,Tal,Thorgeir	
+Akbar,player1	player3,Tal,Thorgeir	
+Akbar,player1	player3,Tal,Thorgeir	
+Akbar,player1	player3,Tal,Thorgeir	
+Akbar,player1	player3,Tal,Thorgeir	
+Akbar,player1	player3,Tal,Thorgeir	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player0,Tal,Gaur	player3,Adolphus	
+player0,Tal,Gaur	player3,Adolphus	
+player0,Tal,Gaur	player3,Adolphus	
+player0,Tal,Gaur	player3,Adolphus	
+player0,Tal,Gaur	player3,Adolphus	
+player0,Tal,Gaur	player3,Adolphus	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Leonide,Helgi,Ksathra,Awiergan,Viktor,player0,Tal,Valgard,Eldgrim,Valfrid,Argi,Gaur,player3,Arnfinn	player1,Rayhaan	
+Eldgrim,Valfrid,Valgard,Awiergan,player0,Tal,Gaur	
+Eldgrim,Valfrid,Valgard,Awiergan,player0,Tal,Gaur	
+Eldgrim,Valfrid,Valgard,Awiergan,player0,Tal,Gaur	
+Eldgrim,Valfrid,Valgard,Awiergan,player0,Tal,Gaur	
+Eldgrim,Valfrid,Valgard,Awiergan,player0,Tal,Gaur	
+Awiergan,player0,Valgard	
+Awiergan,player0,Valgard	
+Awiergan,player0,Valgard	
+Awiergan,player0,Valgard	
+Awiergan,player0,Valgard	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+Helgi,Ksathra,Awiergan,Wildcat,player0,Arnfinn	player1,Kol	
+player0,Ksathra,Arnfinn	
+player0,Ksathra,Arnfinn	
+player0,Ksathra,Arnfinn	
+player0,Ksathra,Arnfinn	
+player0,Ksathra,Arnfinn	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Galindo,Rayhaan,Ksathra,player0,Valgard,Tosti,Arnfinn,Trymman,Umea	
+Arnfinn,player0,Ksathra	
+Arnfinn,player0,Ksathra	
+Arnfinn,player0,Ksathra	
+Arnfinn,player0,Ksathra	
+Arnfinn,player0,Ksathra	
+player0,Brogan,Valgard	
+player0,Brogan,Valgard	
+player0,Brogan,Valgard	
+player0,Brogan,Valgard	
+player0,Brogan,Valgard	
+player0,Brogan,Valgard	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Selwyn	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Cerdic,player2	player3,Samir	
+Cerdic,player2	player3,Samir	
+Cerdic,player2	player3,Samir	
+Cerdic,player2	player3,Samir	
+Cerdic,player2	player3,Samir	
+Cerdic,player2	player3,Samir	
+Otrygg,player1	
+Otrygg,player1	
+Otrygg,player1	
+Otrygg,player1	
+Otrygg,player1	
+Otrygg,player1	
+Ljot,player1	
+Ljot,player1	
+Ljot,player1	
+Ljot,player1	
+Ljot,player1	
+Ljot,player1	
+Eystein,Raziel,player4,Lodin	
+Eystein,Raziel,player4,Lodin	
+Eystein,Raziel,player4,Lodin	
+Eystein,Raziel,player4,Lodin	
+Eystein,Raziel,player4,Lodin	
+Eystein,Raziel,player4,Lodin	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+Mikhail,player1	
+Mikhail,player1	
+Mikhail,player1	
+Mikhail,player1	
+Mikhail,player1	
+Mikhail,player1	
+Boris,Samir,Tal,player3	
+Boris,Samir,Tal,player3	
+Boris,Samir,Tal,player3	
+Boris,Samir,Tal,player3	
+Boris,Samir,Tal,player3	
+Boris,Samir,Tal,player3	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,player2,Tal,Halig,Obeko,Aart,Pig,Skapti,Leonide	
+player0,Halig,Leonide	
+player0,Halig,Leonide	
+player0,Halig,Leonide	
+player0,Halig,Leonide	
+player0,Halig,Leonide	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Yervant,player4,Rayhaan,Polentzi,player0,Anziolo,Valgard,Eldgrim,Selwyn,Cles,Wildcat,Micletr,Arnfinn	Lodin,player3,Beneate	
+Cles,Valgard,Wildcat,player0,Micletr,Arnfinn	player4,Rayhaan	
+Cles,Valgard,Wildcat,player0,Micletr,Arnfinn	player4,Rayhaan	
+Cles,Valgard,Wildcat,player0,Micletr,Arnfinn	player4,Rayhaan	
+Cles,Valgard,Wildcat,player0,Micletr,Arnfinn	player4,Rayhaan	
+Cles,Valgard,Wildcat,player0,Micletr,Arnfinn	player4,Rayhaan	
+Cles,player0,Arnfinn,Valgard	
+Cles,player0,Arnfinn,Valgard	
+Cles,player0,Arnfinn,Valgard	
+Cles,player0,Arnfinn,Valgard	
+Cles,player0,Arnfinn,Valgard	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Eldgrim,Dimespe,Valfrid,Aldhelm,player0,Haros,Arnfinn	player3,Beneate	
+Aldhelm,Eldgrim,player0,Haros	
+Aldhelm,Eldgrim,player0,Haros	
+Aldhelm,Eldgrim,player0,Haros	
+Aldhelm,Eldgrim,player0,Haros	
+Aldhelm,Eldgrim,player0,Haros	
+player3,Tal,player0,Haros,Valgard	
+player3,Tal,player0,Haros,Valgard	
+player3,Tal,player0,Haros,Valgard	
+player3,Tal,player0,Haros,Valgard	
+player3,Tal,player0,Haros,Valgard	
+player3,Tal,player0,Haros,Valgard	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Alees,Thrain,player0,Kles,Dimespe,Isleif,Ther,Tychokl	player3,Tal	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,Dimespe,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,player0,Arseph,Isandro,player4,Theoder,Iakinos,player3,Isleif	player3,Tal	
+Yervant,Theoder,Isleif,player0,player3	
+Yervant,Theoder,Isleif,player0,player3	
+Yervant,Theoder,Isleif,player0,player3	
+Yervant,Theoder,Isleif,player0,player3	
+Yervant,Theoder,Isleif,player0,player3	
+Yervant,player0,Isleif	player3,Theoder	
+Yervant,player0,Isleif	player3,Theoder	
+Yervant,player0,Isleif	player3,Theoder	
+Yervant,player0,Isleif	player3,Theoder	
+Yervant,player0,Isleif	player3,Theoder	
+player3,Theoder	
+player3,Theoder	
+player3,Theoder	
+player3,Theoder	
+player3,Theoder	
+player3,Theoder	
+Ales,Gaztea,player3	
+Ales,Gaztea,player3	
+Ales,Gaztea,player3	
+Ales,Gaztea,player3	
+Ales,Gaztea,player3	
+Ales,Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Gaztea,player3	
+Lukas,player3,Theoder	
+Lukas,player3,Theoder	
+Lukas,player3,Theoder	
+Lukas,player3,Theoder	
+Lukas,player3,Theoder	
+Lukas,player3,Theoder	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+Kles,player2,Apolo,Deneann	
+Kles,player2,Apolo,Deneann	
+Kles,player2,Apolo,Deneann	
+Kles,player2,Apolo,Deneann	
+Kles,player2,Apolo,Deneann	
+Kles,player2,Apolo,Deneann	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Deneann,Arios,Telafko,Kles,player2,Samir	
+Telafko,player2	
+Telafko,player2	
+Telafko,player2	
+Telafko,player2	
+Telafko,player2	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+player2,Samir	
+Spiolos,Mitros,player0,Thantia,Argenis	
+Spiolos,Mitros,player0,Thantia,Argenis	
+Spiolos,Mitros,player0,Thantia,Argenis	
+Spiolos,Mitros,player0,Thantia,Argenis	
+Spiolos,Mitros,player0,Thantia,Argenis	
+Spiolos,Mitros,player0,Thantia,Argenis	
+player3,Thorgeir	
+player3,Thorgeir	
+player3,Thorgeir	
+player3,Thorgeir	
+player3,Thorgeir	
+player3,Thorgeir	
+player3,Samir,Zenos,Anziolo	
+player3,Samir,Zenos,Anziolo	
+player3,Samir,Zenos,Anziolo	
+player3,Samir,Zenos,Anziolo	
+player3,Samir,Zenos,Anziolo	
+player3,Samir,Zenos,Anziolo	
+player3,Samir	
+player3,Samir	
+player3,Samir	
+player3,Samir	
+player3,Samir	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,Grios,player2,Aldred	Mitros,Frog,player1	
+Fish,player2,Aldred	Frog,player1	
+Fish,player2,Aldred	Frog,player1	
+Fish,player2,Aldred	Frog,player1	
+Fish,player2,Aldred	Frog,player1	
+Fish,player2,Aldred	Frog,player1	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2,Vas,Aldred	player3,Maklis,Rayhaan	
+Fish,player2	
+Fish,player2	
+Fish,player2	
+Fish,player2	
+Fish,player2	
+Sophori,player2	Chailts,player1	
+Sophori,player2	Chailts,player1	
+Sophori,player2	Chailts,player1	
+Sophori,player2	Chailts,player1	
+Sophori,player2	Chailts,player1	
+Sophori,player2	Chailts,player1	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Koni,player2,Doxiano,Dimespe,Dimiane,Isleif,Titrocr,Yan,Valfrid,player0,Jatsu,Sanasil,Lucaion,Eldgrim,Sannede,Panos,Samir,Klestor,Ios	
+Eldgrim,Dimespe,Valfrid,Dimiane,player0,Doxiano,Samir	
+Eldgrim,Dimespe,Valfrid,Dimiane,player0,Doxiano,Samir	
+Eldgrim,Dimespe,Valfrid,Dimiane,player0,Doxiano,Samir	
+Eldgrim,Dimespe,Valfrid,Dimiane,player0,Doxiano,Samir	
+Eldgrim,Dimespe,Valfrid,Dimiane,player0,Doxiano,Samir	
+Dimespe,player0,Dimiane,Doxiano	
+Dimespe,player0,Dimiane,Doxiano	
+Dimespe,player0,Dimiane,Doxiano	
+Dimespe,player0,Dimiane,Doxiano	
+Dimespe,player0,Dimiane,Doxiano	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Thrain,Thratha,Valgard,Dimespe,Isleif,Mikodor,Arnfinn,Kalisto,Yervant,Kali,player0,Basis,Arikine,Eldgrim,Valfrid,Anaia,Pelis	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Eldgrim,Yervant,Dimespe,Valfrid,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,Dimespe,Thrain,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,Thrain,Anaia,Niktavr,player0,Thratha,Isleif	
+Yervant,Yurik,player0,Isleif	
+Yervant,Yurik,player0,Isleif	
+Yervant,Yurik,player0,Isleif	
+Yervant,Yurik,player0,Isleif	
+Yervant,Yurik,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Aldhelm,player0,Anaia	
+Aldhelm,player0,Anaia	
+Aldhelm,player0,Anaia	
+Aldhelm,player0,Anaia	
+Aldhelm,player0,Anaia	
+Aldhelm,player0,Anaia	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+player3,Theoder,Vasilii	
+player3,Theoder,Vasilii	
+player3,Theoder,Vasilii	
+player3,Theoder,Vasilii	
+player3,Theoder,Vasilii	
+player3,Theoder,Vasilii	
+Eles,Seiasio,player1,Wregan	
+Eles,Seiasio,player1,Wregan	
+Eles,Seiasio,player1,Wregan	
+Eles,Seiasio,player1,Wregan	
+Eles,Seiasio,player1,Wregan	
+Eles,Seiasio,player1,Wregan	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Fish,Valfrid,Aldhelm,player0,player2	Didier,Khanola,player0,Tal,Damatis,Valgard,Arios,Gardi,Manton,Leonide,Theros,Dios	
+Eldgrim,Valfrid,Aldhelm,player0	
+Eldgrim,Valfrid,Aldhelm,player0	
+Eldgrim,Valfrid,Aldhelm,player0	
+Eldgrim,Valfrid,Aldhelm,player0	
+Eldgrim,Valfrid,Aldhelm,player0	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0,Valfrid	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Khanola,Apolas,Julian,Ias,Vasiost,Arkhill,Valfrid,player0,Stas,Eldgrim,Nikenes,Aristar,Dios,Nekovus,Aldhelm,Theros,Theros	
+Aldhelm,player0,Stas	
+Aldhelm,player0,Stas	
+Aldhelm,player0,Stas	
+Aldhelm,player0,Stas	
+Aldhelm,player0,Stas	
+player0,Stas	
+player0,Stas	
+player0,Stas	
+player0,Stas	
+player0,Stas	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Khanola,Cles,Gardi,Aldhelm,Theros,player0,Micletr,Halig	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Khanola,Aigenti,Khanas,Manton,Damanni,Sandron,Mikodor,Sebasid,Kalista,Nictaph,Sanasil,Georide,Mikosta,Govannon,Anas,Nekovus,player0,Damanag	
+Sandron,Damanag,player0,Sanasil,Georide	
+Sandron,Damanag,player0,Sanasil,Georide	
+Sandron,Damanag,player0,Sanasil,Georide	
+Sandron,Damanag,player0,Sanasil,Georide	
+Sandron,Damanag,player0,Sanasil,Georide	
+Damanag,player0,Sanasil,Yannios	
+Damanag,player0,Sanasil,Yannios	
+Damanag,player0,Sanasil,Yannios	
+Damanag,player0,Sanasil,Yannios	
+Damanag,player0,Sanasil,Yannios	
+Damanag,player0,Sanasil,Yannios	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+player0,Sanasil	
+Frog,player3,Maklis	
+Frog,player3,Maklis	
+Frog,player3,Maklis	
+Frog,player3,Maklis	
+Frog,player3,Maklis	
+Frog,player3,Maklis	
+Sigulf,Frog,player3	
+Sigulf,Frog,player3	
+Sigulf,Frog,player3	
+Sigulf,Frog,player3	
+Sigulf,Frog,player3	
+Sigulf,Frog,player3	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+player3,Ludvik	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Ios,Thrain,Loulos,Zeroun,player0,Thjodolf,Sanasil,Socodon,Isleif,Kypros,Ragnar,Theros	
+Yervant,Thrain,Loulos,player0,Isleif	
+Yervant,Thrain,Loulos,player0,Isleif	
+Yervant,Thrain,Loulos,player0,Isleif	
+Yervant,Thrain,Loulos,player0,Isleif	
+Yervant,Thrain,Loulos,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Gaztea,player3,Maklis,Anziose,Zeroun,Valgard,Dimiane,Mikolem,Aldred,Telios,Deogol,Yervant,Ksathra,Polentzi,Ision,Chris,player0,Stelexi,Gaur,Eldgrim,Theros	
+Ksathra,Valgard,player0,Theros,Gaur	player3,Anziose	
+Ksathra,Valgard,player0,Theros,Gaur	player3,Anziose	
+Ksathra,Valgard,player0,Theros,Gaur	player3,Anziose	
+Ksathra,Valgard,player0,Theros,Gaur	player3,Anziose	
+Ksathra,Valgard,player0,Theros,Gaur	player3,Anziose	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+Yervant,Eldgrim,Ksathra,player0,Arikine	player3,Isleif	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2,Aldred	Ioregor,player3,Zenos,Ianasto,Theoder,Tal,Isleif,Mikodor,Argi,Deogol,Yervant,Kalista,player1,Ksathra,player0,Gaur,Eldgrim,Spyros,Valfrid	
+Ragnar,player2	Yervant,Ksathra,player0,Tal,Eldgrim,Valfrid,Isleif,Mikodor,Argi	player1,Zenos	player3,Deogol	
+Ragnar,player2	Yervant,Ksathra,player0,Tal,Eldgrim,Valfrid,Isleif,Mikodor,Argi	player1,Zenos	player3,Deogol	
+Ragnar,player2	Yervant,Ksathra,player0,Tal,Eldgrim,Valfrid,Isleif,Mikodor,Argi	player1,Zenos	player3,Deogol	
+Ragnar,player2	Yervant,Ksathra,player0,Tal,Eldgrim,Valfrid,Isleif,Mikodor,Argi	player1,Zenos	player3,Deogol	
+Ragnar,player2	Yervant,Ksathra,player0,Tal,Eldgrim,Valfrid,Isleif,Mikodor,Argi	player1,Zenos	player3,Deogol	
+Yervant,Eldgrim,Ksathra,player0,Tal	player3,Deogol	
+Yervant,Eldgrim,Ksathra,player0,Tal	player3,Deogol	
+Yervant,Eldgrim,Ksathra,player0,Tal	player3,Deogol	
+Yervant,Eldgrim,Ksathra,player0,Tal	player3,Deogol	
+Yervant,Eldgrim,Ksathra,player0,Tal	player3,Deogol	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Eldgrim,player0	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Ioregor,Yervant,player3,Sarlic,Thrain,Gaztea,player0,player1,Eldgrim,Isleif,Aart,Phios,Yannasi,Chalis,Leonide	
+Yervant,player0,player1,Leonide	
+Yervant,player0,player1,Leonide	
+Yervant,player0,player1,Leonide	
+Yervant,player0,player1,Leonide	
+Yervant,player0,player1,Leonide	
+player0,player1,Leonide	
+player0,player1,Leonide	
+player0,player1,Leonide	
+player0,player1,Leonide	
+player0,player1,Leonide	
+player0,Leonide	
+player0,Leonide	
+player0,Leonide	
+player0,Leonide	
+player0,Leonide	
+player0,Eletios	player1,Beneate	
+player0,Eletios	player1,Beneate	
+player0,Eletios	player1,Beneate	
+player0,Eletios	player1,Beneate	
+player0,Eletios	player1,Beneate	
+player0,Eletios	player1,Beneate	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Benedin,Lamotef,Aldhelm,player0,Herios	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Thrain,Eus,player0,Tal,Ainikio,Valgard,Euphos,Isleif,Gre,Govannon,Cerdic,Teli	player3,Telis	
+Yervant,Isleif,Eus,Gre,player0	
+Yervant,Isleif,Eus,Gre,player0	
+Yervant,Isleif,Eus,Gre,player0	
+Yervant,Isleif,Eus,Gre,player0	
+Yervant,Isleif,Eus,Gre,player0	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player0,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+Philios,player2,Nandes,Arios	
+Philios,player2,Nandes,Arios	
+Philios,player2,Nandes,Arios	
+Philios,player2,Nandes,Arios	
+Philios,player2,Nandes,Arios	
+Philios,player2,Nandes,Arios	
+player2,Nandes	
+player2,Nandes	
+player2,Nandes	
+player2,Nandes	
+player2,Nandes	
+Anas,player2	Ioanti,player0	
+Anas,player2	Ioanti,player0	
+Anas,player2	Ioanti,player0	
+Anas,player2	Ioanti,player0	
+Anas,player2	Ioanti,player0	
+Anas,player2	Ioanti,player0	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Telafko,player2	Sanos,Steros,Aldhelm,Ragnar,player0,Euris	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Eldgrim,Ianasto,player0,Stelexi,Ludvik,Imanol,Mikodor,Aldhelm,Cerdic	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0,Mikodor	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+Brogan,Leimis,Polentzi,player0,Aetrion	
+player0,Aetrion,Polentzi	
+player0,Aetrion,Polentzi	
+player0,Aetrion,Polentzi	
+player0,Aetrion,Polentzi	
+player0,Aetrion,Polentzi	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+Daraios,Ksathra,Loulos,Zigor,Loukasi,player0,Khandes,Aetrion,Epamios,Yantama,Ioanti,Cerdic,Krion,Skyrios	
+player0,Cerdic,Khandes	
+player0,Cerdic,Khandes	
+player0,Cerdic,Khandes	
+player0,Cerdic,Khandes	
+player0,Cerdic,Khandes	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Nilos,Rayhaan,Ianasto,player0,Stelexi,Gaur,Eldgrim,Dimiane,Kashif,Arios	player3,Sarlic,Maklis	
+Eldgrim,player0,Dimiane,Arios	
+Eldgrim,player0,Dimiane,Arios	
+Eldgrim,player0,Dimiane,Arios	
+Eldgrim,player0,Dimiane,Arios	
+Eldgrim,player0,Dimiane,Arios	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+player0,Dimiane	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+Alesander,Memetot,Kol,player4,Maklist,Benobio	Lodin,Frog,player3,Maklis	
+player4,Benobio	
+player4,Benobio	
+player4,Benobio	
+player4,Benobio	
+player4,Benobio	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+Nichann,Arios,Ksathra,Polentzi,Nikomon,player0,Khandes,Halig,Epamios,Imanol,Wregan,Yantama,Eldgrim,Iasilag,Anas	player3,Theos,Maklis	
+player0,Wregan	
+player0,Wregan	
+player0,Wregan	
+player0,Wregan	
+player0,Wregan	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Anayios,Yervant,Thrain,Ksathra,Lysadda,player0,Thjodolf,Wregan,Eldgrim,Selwyn,Isleif,Yantama,Mil,Argi,Imanol	
+Imanol,Eldgrim,Ksathra,Argi,player0,Thjodolf,Wregan	
+Imanol,Eldgrim,Ksathra,Argi,player0,Thjodolf,Wregan	
+Imanol,Eldgrim,Ksathra,Argi,player0,Thjodolf,Wregan	
+Imanol,Eldgrim,Ksathra,Argi,player0,Thjodolf,Wregan	
+Imanol,Eldgrim,Ksathra,Argi,player0,Thjodolf,Wregan	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Kletus,Thrain,player0,Erasos,Eldgrim,Selwyn,Oregorg,Wregan,Vasosti,Hedeon,Gris,Ther,Dimis	
+Yervant,Selwyn,player0,Wregan	
+Yervant,Selwyn,player0,Wregan	
+Yervant,Selwyn,player0,Wregan	
+Yervant,Selwyn,player0,Wregan	
+Yervant,Selwyn,player0,Wregan	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Sandrom,Helgi,Thrain,player0,Penrith,Leheren,Selwyn,Govannon,Argi,Leonide	
+Leheren,Selwyn,player0,Govannon	
+Leheren,Selwyn,player0,Govannon	
+Leheren,Selwyn,player0,Govannon	
+Leheren,Selwyn,player0,Govannon	
+Leheren,Selwyn,player0,Govannon	
+Selwyn,player0,Govannon	
+Selwyn,player0,Govannon	
+Selwyn,player0,Govannon	
+Selwyn,player0,Govannon	
+Selwyn,player0,Govannon	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Alesander,player3	
+Alesander,player3	
+Alesander,player3	
+Alesander,player3	
+Alesander,player3	
+Alesander,player3	
+Atheo,player3	
+Atheo,player3	
+Atheo,player3	
+Atheo,player3	
+Atheo,player3	
+Atheo,player3	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+Frog,Cerdic,Enek,player0,Tal,Valgard,Perakan,Stes,Aldhelm,Gaur	
+player0,Valgard,Cerdic,Gaur	
+player0,Valgard,Cerdic,Gaur	
+player0,Valgard,Cerdic,Gaur	
+player0,Valgard,Cerdic,Gaur	
+player0,Valgard,Cerdic,Gaur	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Sarlic,Symenst,Bas,Tal,Loukis,Isados,Spiuseu,Theodes,Manos	
+player3,Spiuseu,Loukis,Bas	
+player3,Spiuseu,Loukis,Bas	
+player3,Spiuseu,Loukis,Bas	
+player3,Spiuseu,Loukis,Bas	
+player3,Spiuseu,Loukis,Bas	
+Gaztea,player3,Spiuseu	
+Gaztea,player3,Spiuseu	
+Gaztea,player3,Spiuseu	
+Gaztea,player3,Spiuseu	
+Gaztea,player3,Spiuseu	
+Gaztea,player3,Spiuseu	
+player3,Spiuseu	
+player3,Spiuseu	
+player3,Spiuseu	
+player3,Spiuseu	
+player3,Spiuseu	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+Boar,player1	
+Boar,player1	
+Boar,player1	
+Boar,player1	
+Boar,player1	
+Boar,player1	
+Boar,Otrygg,player1	
+Boar,Otrygg,player1	
+Boar,Otrygg,player1	
+Boar,Otrygg,player1	
+Boar,Otrygg,player1	
+Boar,Otrygg,player1	
+Arios,player1,Eustios	
+Arios,player1,Eustios	
+Arios,player1,Eustios	
+Arios,player1,Eustios	
+Arios,player1,Eustios	
+Arios,player1,Eustios	
+player1,Eustios	
+player1,Eustios	
+player1,Eustios	
+player1,Eustios	
+player1,Eustios	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+Kyroco,player1	
+Kyroco,player1	
+Kyroco,player1	
+Kyroco,player1	
+Kyroco,player1	
+Kyroco,player1	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Selwyn,player0	
+Adrik,player3	
+Adrik,player3	
+Adrik,player3	
+Adrik,player3	
+Adrik,player3	
+Adrik,player3	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+Amuruza,player2	
+player0,Helgi,Ksathra	
+player0,Helgi,Ksathra	
+player0,Helgi,Ksathra	
+player0,Helgi,Ksathra	
+player0,Helgi,Ksathra	
+player0,Helgi,Ksathra	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Lambos,Awiergan,Mitri,player0,Thjodolf,Selwyn,Haros,Gremian,Wildcat,Ther,Arnfinn	player3,Tal	
+Selwyn,Wildcat,player0,Haros,Arnfinn	
+Selwyn,Wildcat,player0,Haros,Arnfinn	
+Selwyn,Wildcat,player0,Haros,Arnfinn	
+Selwyn,Wildcat,player0,Haros,Arnfinn	
+Selwyn,Wildcat,player0,Haros,Arnfinn	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+player0,Haros	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+Helgi,Alexane,Thjodolf,Antios,Gremian,Wildcat,Myriony,Haros,Herios,Nikis,player0,Apolo,Erasos,Alesander,Selwyn,Vastius,Dimis,Arnfinn	
+player0,Nikis,Dimis,Thjodolf,Erasos,Myriony,Alesander,Selwyn,Arnfinn	
+player0,Nikis,Dimis,Thjodolf,Erasos,Myriony,Alesander,Selwyn,Arnfinn	
+player0,Nikis,Dimis,Thjodolf,Erasos,Myriony,Alesander,Selwyn,Arnfinn	
+player0,Nikis,Dimis,Thjodolf,Erasos,Myriony,Alesander,Selwyn,Arnfinn	
+player0,Nikis,Dimis,Thjodolf,Erasos,Myriony,Alesander,Selwyn,Arnfinn	
+Selwyn,Arnfinn,Nikis,player0,Erasos,Myriony	
+Selwyn,Arnfinn,Nikis,player0,Erasos,Myriony	
+Selwyn,Arnfinn,Nikis,player0,Erasos,Myriony	
+Selwyn,Arnfinn,Nikis,player0,Erasos,Myriony	
+Selwyn,Arnfinn,Nikis,player0,Erasos,Myriony	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+player0,Erasos	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+Ksathra,player0,Thjodolf,Gremian,Alesander,Selwyn,Argi,Wildcat,Alfred,Arnfinn	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf,Ksathra	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+player0,Ksathra	
+Kashif,player3	
+Kashif,player3	
+Kashif,player3	
+Kashif,player3	
+Kashif,player3	
+Kashif,player3	
+Aki,player2,Samir	
+Aki,player2,Samir	
+Aki,player2,Samir	
+Aki,player2,Samir	
+Aki,player2,Samir	
+Aki,player2,Samir	
+player0,Vigfus,Leheren	Lodin,player3	
+player0,Vigfus,Leheren	Lodin,player3	
+player0,Vigfus,Leheren	Lodin,player3	
+player0,Vigfus,Leheren	Lodin,player3	
+player0,Vigfus,Leheren	Lodin,player3	
+player0,Vigfus,Leheren	Lodin,player3	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Melchior,Hallfred,Oleg,Faran,Ksathra,player0,Ormod,Eusko,Gardi,Otrygg,Maalik,Jasha,Atol	
+Faran,player0	
+Faran,player0	
+Faran,player0	
+Faran,player0	
+Faran,player0	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yurik,player3	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Yervant,Selwyn,Strang,Ksathra,player0,Penrith	
+Selwyn,player0,Penrith,Ksathra	
+Selwyn,player0,Penrith,Ksathra	
+Selwyn,player0,Penrith,Ksathra	
+Selwyn,player0,Penrith,Ksathra	
+Selwyn,player0,Penrith,Ksathra	
+player0,Penrith	
+player0,Penrith	
+player0,Penrith	
+player0,Penrith	
+player0,Penrith	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Gaur,Leheren,Selwyn,Govannon,Isleif,Borya,Argi,Faran,Zilar,Strang,Samir	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Yervant,player0,Thjodolf,Strang	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Strang,Govannon,Grindan,Jarah,Loramendi,player0,Thjodolf,Arnfinn	Warian,player3,Rayhaan	
+Jarah,player0,Thjodolf	
+Jarah,player0,Thjodolf	
+Jarah,player0,Thjodolf	
+Jarah,player0,Thjodolf	
+Jarah,player0,Thjodolf	
+Bergthor,player3,Ludvik	
+Bergthor,player3,Ludvik	
+Bergthor,player3,Ludvik	
+Bergthor,player3,Ludvik	
+Bergthor,player3,Ludvik	
+Bergthor,player3,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+Ilazki,player0,Thjodolf,Gerhard,Gaur,Alesander,Leheren,Aart,Govannon	Lodin,player3,Sarlic,Ludvik	
+player0,Thjodolf,Gaur	player3,Ludvik	
+player0,Thjodolf,Gaur	player3,Ludvik	
+player0,Thjodolf,Gaur	player3,Ludvik	
+player0,Thjodolf,Gaur	player3,Ludvik	
+player0,Thjodolf,Gaur	player3,Ludvik	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Athelstan,player0,Thjodolf,Gerhard,Gaur,Leheren,Arano,Acennan,Majnun	
+Leheren,player0,Thjodolf	
+Leheren,player0,Thjodolf	
+Leheren,player0,Thjodolf	
+Leheren,player0,Thjodolf	
+Leheren,player0,Thjodolf	
+player3,Cynric	
+player3,Cynric	
+player3,Cynric	
+player3,Cynric	
+player3,Cynric	
+player3,Cynric	
+Ljotolf,player1	player3,Zeroun	
+Ljotolf,player1	player3,Zeroun	
+Ljotolf,player1	player3,Zeroun	
+Ljotolf,player1	player3,Zeroun	
+Ljotolf,player1	player3,Zeroun	
+Ljotolf,player1	player3,Zeroun	
+player3,Hauk	
+player3,Hauk	
+player3,Hauk	
+player3,Hauk	
+player3,Hauk	
+player3,Hauk	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Cerdic,player2	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Verner,Alik,Hedeon,player2,Awiergan,Samir	
+Alik,Hedeon,player2,Awiergan,Samir	
+Alik,Hedeon,player2,Awiergan,Samir	
+Alik,Hedeon,player2,Awiergan,Samir	
+Alik,Hedeon,player2,Awiergan,Samir	
+Alik,Hedeon,player2,Awiergan,Samir	
+Hedeon,player2,Alik	
+Hedeon,player2,Alik	
+Hedeon,player2,Alik	
+Hedeon,player2,Alik	
+Hedeon,player2,Alik	
+player2,Alik	
+player2,Alik	
+player2,Alik	
+player2,Alik	
+player2,Alik	
+Amuruza,player0	
+Amuruza,player0	
+Amuruza,player0	
+Amuruza,player0	
+Amuruza,player0	
+Amuruza,player0	
+Glum,player2	player1,Sharifu	
+Glum,player2	player1,Sharifu	
+Glum,player2	player1,Sharifu	
+Glum,player2	player1,Sharifu	
+Glum,player2	player1,Sharifu	
+Glum,player2	player1,Sharifu	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Stavann,Eus,Theo,Govannon,Nikis,Awiergan,player0,Dimis	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+Verner,Teobaldo,Rayhaan,Ksathra,Athelstan,player2,player0,Kaltopi,Gaur,Isleif,Argi	Polentzi,Jatsu,player0,Thjodolf,Selwyn,Apos,Kaltos,Govannon,Georios	
+player2,Ksathra	Argi,Athelstan,player0,Teobaldo	
+player2,Ksathra	Argi,Athelstan,player0,Teobaldo	
+player2,Ksathra	Argi,Athelstan,player0,Teobaldo	
+player2,Ksathra	Argi,Athelstan,player0,Teobaldo	
+player2,Ksathra	Argi,Athelstan,player0,Teobaldo	
+player2,Ksathra	Athelstan,player0	
+player2,Ksathra	Athelstan,player0	
+player2,Ksathra	Athelstan,player0	
+player2,Ksathra	Athelstan,player0	
+player2,Ksathra	Athelstan,player0	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Kaltopi,player2	Stavann,Zarif,Selwyn,Kles,Wregan,Penrith,player0,Thjodolf	
+Stavann,Zarif,Selwyn,Wregan,player0,Thjodolf	
+Stavann,Zarif,Selwyn,Wregan,player0,Thjodolf	
+Stavann,Zarif,Selwyn,Wregan,player0,Thjodolf	
+Stavann,Zarif,Selwyn,Wregan,player0,Thjodolf	
+Stavann,Zarif,Selwyn,Wregan,player0,Thjodolf	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Alfred,Cerdic,player2,Samir	
+Alfred,Cerdic,player2,Samir	
+Alfred,Cerdic,player2,Samir	
+Alfred,Cerdic,player2,Samir	
+Alfred,Cerdic,player2,Samir	
+Alfred,Cerdic,player2,Samir	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Gaztea,Frog,player3,Sarlic	
+Gaztea,Frog,player3,Sarlic	
+Gaztea,Frog,player3,Sarlic	
+Gaztea,Frog,player3,Sarlic	
+Gaztea,Frog,player3,Sarlic	
+Gaztea,Frog,player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+Leheren,player0,Pyotr,Vas	Wregan,Aianos,Kol,player4,Iasyvou	player3,Ksathra	
+player0,Pyotr	player4,Wregan	
+player0,Pyotr	player4,Wregan	
+player0,Pyotr	player4,Wregan	
+player0,Pyotr	player4,Wregan	
+player0,Pyotr	player4,Wregan	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+Govannon,Theodem,player0,Gaur,Orestai,Valgard	player4,Pyotr,Alfred	
+player0,Gaur	player4,Pyotr,Alfred	
+player0,Gaur	player4,Pyotr,Alfred	
+player0,Gaur	player4,Pyotr,Alfred	
+player0,Gaur	player4,Pyotr,Alfred	
+player0,Gaur	player4,Pyotr,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player0,Timios	
+player0,Timios	
+player0,Timios	
+player0,Timios	
+player0,Timios	
+player0,Timios	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+Athelstan,Nailah,player0,Gremian,Gaur,Selwyn,Aldred,Anaia,Wildcat	
+player0,Anaia	
+player0,Anaia	
+player0,Anaia	
+player0,Anaia	
+player0,Anaia	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,Bork,Anaia,Ksathra,player0,Thjodolf	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Garaile,player0	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Hastein,player3	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Dartos,Brand,player2,Imanol,Erian,Reyhan,Kypris,Teobaldo,Vas,Samir	
+Imanol,Erian,Teobaldo,Reyhan,player2,Samir	
+Imanol,Erian,Teobaldo,Reyhan,player2,Samir	
+Imanol,Erian,Teobaldo,Reyhan,player2,Samir	
+Imanol,Erian,Teobaldo,Reyhan,player2,Samir	
+Imanol,Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+Erian,Teobaldo,Reyhan,player2,Samir	
+player2,Reyhan,Samir	
+player2,Reyhan,Samir	
+player2,Reyhan,Samir	
+player2,Reyhan,Samir	
+player2,Reyhan,Samir	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Erian,Reyhan,Brand,player2	
+Imanol,Brand,player2,Reyhan	
+Imanol,Brand,player2,Reyhan	
+Imanol,Brand,player2,Reyhan	
+Imanol,Brand,player2,Reyhan	
+Imanol,Brand,player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+player2,Reyhan	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Kaltsad,Aldhelm,Brand,player2,Wildcat,Vasilii,Arnfinn	player0,Gardi,Pyotr	
+Aldhelm,player2	
+Aldhelm,player2	
+Aldhelm,player2	
+Aldhelm,player2	
+Aldhelm,player2	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,Teobaldo,Kypros,player0,Theros,Pyotr,Arios	
+Vikomes,player0,Teobaldo,Pyotr	
+Vikomes,player0,Teobaldo,Pyotr	
+Vikomes,player0,Teobaldo,Pyotr	
+Vikomes,player0,Teobaldo,Pyotr	
+Vikomes,player0,Teobaldo,Pyotr	
+player0,Teobaldo	
+player0,Teobaldo	
+player0,Teobaldo	
+player0,Teobaldo	
+player0,Teobaldo	
+Savros,Frog,Krios,player1	
+Savros,Frog,Krios,player1	
+Savros,Frog,Krios,player1	
+Savros,Frog,Krios,player1	
+Savros,Frog,Krios,player1	
+Savros,Frog,Krios,player1	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player1,Bergthor	
+player1,Bergthor	
+player1,Bergthor	
+player1,Bergthor	
+player1,Bergthor	
+player1,Bergthor	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Awiergan,Selwyn,player0	player2,Panos,player4,Kol	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Wregan,Jatsu,player4,Grisha,Isleif,Alrik,Teobaldo,Wildcat,Zarif,Elorri,Thorir,player0,player2,Gaur,Aldred,Hedeon,Pig,Arnfinn	
+Yervant,Teobaldo,player0,Jatsu,Pig	
+Yervant,Teobaldo,player0,Jatsu,Pig	
+Yervant,Teobaldo,player0,Jatsu,Pig	
+Yervant,Teobaldo,player0,Jatsu,Pig	
+Yervant,Teobaldo,player0,Jatsu,Pig	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+player0,Jatsu	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Leonide,Yervant,Polentzi,Arnfinn,player0,Jatsu,Pig	
+Yervant,player0,Polentzi	
+Yervant,player0,Polentzi	
+Yervant,player0,Polentzi	
+Yervant,player0,Polentzi	
+Yervant,player0,Polentzi	
+Ksathra,Grindan,Argi,player0,Samir	
+Ksathra,Grindan,Argi,player0,Samir	
+Ksathra,Grindan,Argi,player0,Samir	
+Ksathra,Grindan,Argi,player0,Samir	
+Ksathra,Grindan,Argi,player0,Samir	
+Ksathra,Grindan,Argi,player0,Samir	
+player0,Strang	
+player0,Strang	
+player0,Strang	
+player0,Strang	
+player0,Strang	
+player0,Strang	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,Loramendi,Thrain,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Teobaldo,Ksathra,Dima,Brand,player2	
+Brand,player2,Ksathra,Dima	
+Brand,player2,Ksathra,Dima	
+Brand,player2,Ksathra,Dima	
+Brand,player2,Ksathra,Dima	
+Brand,player2,Ksathra,Dima	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Brand,Teobaldo	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Teobaldo,Milip	Lucan,Konrad,Argi,Thjodolf,player0,Jatsu	
+player2,Milip	
+player2,Milip	
+player2,Milip	
+player2,Milip	
+player2,Milip	
+player2,Aldred	Aldhelm,player0,Polentzi	
+player2,Aldred	Aldhelm,player0,Polentzi	
+player2,Aldred	Aldhelm,player0,Polentzi	
+player2,Aldred	Aldhelm,player0,Polentzi	
+player2,Aldred	Aldhelm,player0,Polentzi	
+player2,Aldred	Aldhelm,player0,Polentzi	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Aldhelm,player0	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Yervant,Sorab,Konrad,Sergei,Fish,Lucan,player0,Besyrwan,Maks,Fyren	player1,Steinthor	
+Lucan,Besyrwan,Konrad,player0	
+Lucan,Besyrwan,Konrad,player0	
+Lucan,Besyrwan,Konrad,player0	
+Lucan,Besyrwan,Konrad,player0	
+Lucan,Besyrwan,Konrad,player0	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Aktapio,Yervant,Iasos,Chrios,Telogat,Herus,player0,Khandes,Timiose,Makles,Alesper,Isleif,Theodon,Grios,Ogier	
+Yervant,player0,Ogier	
+Yervant,player0,Ogier	
+Yervant,player0,Ogier	
+Yervant,player0,Ogier	
+Yervant,player0,Ogier	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+Adonys,Valfrid,Telogat,player0,Jermija	player3,Sarlic	
+player0,Valfrid	
+player0,Valfrid	
+player0,Valfrid	
+player0,Valfrid	
+player0,Valfrid	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Brand,Kol,player2	Yervant,Anas,Derian,player0,Manton,Ogier,Gon,Aldhelm,Jermija	
+Aldhelm,player0,Jermija,Manton	
+Aldhelm,player0,Jermija,Manton	
+Aldhelm,player0,Jermija,Manton	
+Aldhelm,player0,Jermija,Manton	
+Aldhelm,player0,Jermija,Manton	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Didier,player2	Yervant,Derian,Thrain,Lucan,Konrad,player0,Nigel,Osric,Ogier,Botolf	
+Konrad,player0	
+Konrad,player0	
+Konrad,player0	
+Konrad,player0	
+Konrad,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,Didier,player2,Maccus	Lastur,player0	
+Kol,player2	
+Kol,player2	
+Kol,player2	
+Kol,player2	
+Kol,player2	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Grindan,player2,Ragnar,Didier	Sigtrygg,Mikhail,Ksathra,player0,Osric,Ogier,Warian,Hedeon,Aethelred,Sturla	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+Wildcat,player2	Thjodolf,Athelstan,player0,Ogier	Sujal,player4	player3,Sarlic	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+Sigtrygg,player3	
+Sigtrygg,player3	
+Sigtrygg,player3	
+Sigtrygg,player3	
+Sigtrygg,player3	
+Sigtrygg,player3	
+Cerdic,Tannino,Polentzi,Argi,player0	
+Cerdic,Tannino,Polentzi,Argi,player0	
+Cerdic,Tannino,Polentzi,Argi,player0	
+Cerdic,Tannino,Polentzi,Argi,player0	
+Cerdic,Tannino,Polentzi,Argi,player0	
+Cerdic,Tannino,Polentzi,Argi,player0	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Frog,player3	
+Viktor,player3,Tal	
+Viktor,player3,Tal	
+Viktor,player3,Tal	
+Viktor,player3,Tal	
+Viktor,player3,Tal	
+Viktor,player3,Tal	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Glum,player4	player3,Tal	
+Glum,player4	player3,Tal	
+Glum,player4	player3,Tal	
+Glum,player4	player3,Tal	
+Glum,player4	player3,Tal	
+Glum,player4	player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,Eugenos,player2,player1,Iakost	Glum,Viktor,player3,Tal	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Leheren,Erian,Konrad,Ksathra,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+player2,Konrad,Teobaldo	
+player2,Konrad,Teobaldo	
+player2,Konrad,Teobaldo	
+player2,Konrad,Teobaldo	
+player2,Konrad,Teobaldo	
+player2,Konrad,Teobaldo	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Zeroun,player2	
+Zeroun,player2	
+Zeroun,player2	
+Zeroun,player2	
+Zeroun,player2	
+Zeroun,player2	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Kol,Adon,Nikolym,Theros,Brand,player2	Arios,Amuruza,player0	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Teobaldo,Ogier,Lambos,Thorir,player0,Jermija	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Konrad,player0	Vigfus,player1	Elpios,player3,Sarlic,Kypros	
+Karolek,player3,Sarlic	
+Karolek,player3,Sarlic	
+Karolek,player3,Sarlic	
+Karolek,player3,Sarlic	
+Karolek,player3,Sarlic	
+Karolek,player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	Wildcat,player3	
+player2,Alfred	Wildcat,player3	
+player2,Alfred	Wildcat,player3	
+player2,Alfred	Wildcat,player3	
+player2,Alfred	Wildcat,player3	
+player2,Alfred	Wildcat,player3	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+Sigtrygg,player1	
+Sigtrygg,player1	
+Sigtrygg,player1	
+Sigtrygg,player1	
+Sigtrygg,player1	
+Sigtrygg,player1	
+Sigtrygg,player1,Hrut,Motya	
+Sigtrygg,player1,Hrut,Motya	
+Sigtrygg,player1,Hrut,Motya	
+Sigtrygg,player1,Hrut,Motya	
+Sigtrygg,player1,Hrut,Motya	
+Sigtrygg,player1,Hrut,Motya	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,player0	player1,Ansar	
+Aldhelm,Selwyn,player0,Fyren	
+Aldhelm,Selwyn,player0,Fyren	
+Aldhelm,Selwyn,player0,Fyren	
+Aldhelm,Selwyn,player0,Fyren	
+Aldhelm,Selwyn,player0,Fyren	
+Aldhelm,Selwyn,player0,Fyren	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+player0,Ogier	
+Enetz,player4	player3,Thorgeir	
+Enetz,player4	player3,Thorgeir	
+Enetz,player4	player3,Thorgeir	
+Enetz,player4	player3,Thorgeir	
+Enetz,player4	player3,Thorgeir	
+Enetz,player4	player3,Thorgeir	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player0,Ogier	Zivon,Cerdic,Wregan,player4,Solmund,Iztal	
+player4,Nerian,Deogol	
+player4,Nerian,Deogol	
+player4,Nerian,Deogol	
+player4,Nerian,Deogol	
+player4,Nerian,Deogol	
+player4,Nerian,Deogol	
+Sigulf,player3	
+Sigulf,player3	
+Sigulf,player3	
+Sigulf,player3	
+Sigulf,player3	
+Sigulf,player3	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player4,Alfred	player1,Iztal	Karolek,player3,Tal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Fish,player2	Thrain,Adrik,Isleif,player4,Nerian,Alfred	Frog,player1,Anhaga	
+Isleif,Adrik,player4,Nerian,Alfred	
+Isleif,Adrik,player4,Nerian,Alfred	
+Isleif,Adrik,player4,Nerian,Alfred	
+Isleif,Adrik,player4,Nerian,Alfred	
+Isleif,Adrik,player4,Nerian,Alfred	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Godric,player2,Aldred	player3,Ludvik	
+Godric,player2,Aldred	player3,Ludvik	
+Godric,player2,Aldred	player3,Ludvik	
+Godric,player2,Aldred	player3,Ludvik	
+Godric,player2,Aldred	player3,Ludvik	
+Godric,player2,Aldred	player3,Ludvik	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+Frantzes,Raitin,player2,Aldred	player3,Iztal	
+player3,Iztal	
+player3,Iztal	
+player3,Iztal	
+player3,Iztal	
+player3,Iztal	
+player4,player2,Alfred	player3,Godric	
+player4,player2,Alfred	player3,Godric	
+player4,player2,Alfred	player3,Godric	
+player4,player2,Alfred	player3,Godric	
+player4,player2,Alfred	player3,Godric	
+player4,player2,Alfred	player3,Godric	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Lambi,player3,Godric,Tal	
+Lambi,player3,Godric,Tal	
+Lambi,player3,Godric,Tal	
+Lambi,player3,Godric,Tal	
+Lambi,player3,Godric,Tal	
+Lambi,player3,Godric,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+Boris,player1,Kol	
+Boris,player1,Kol	
+Boris,player1,Kol	
+Boris,player1,Kol	
+Boris,player1,Kol	
+Boris,player1,Kol	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,Larra,player2	Adrik,player3	
+Bakar,player2	
+Bakar,player2	
+Bakar,player2	
+Bakar,player2	
+Bakar,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Eldgrim,Lodin,player3,Teobaldo,Gaztea,player2	
+Teobaldo,player3,player2,Thorgeir	
+Teobaldo,player3,player2,Thorgeir	
+Teobaldo,player3,player2,Thorgeir	
+Teobaldo,player3,player2,Thorgeir	
+Teobaldo,player3,player2,Thorgeir	
+Teobaldo,player3,player2,Thorgeir	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+player3,player2	
+Vasilii,player3,Godric,player2,Alfred	
+Vasilii,player3,Godric,player2,Alfred	
+Vasilii,player3,Godric,player2,Alfred	
+Vasilii,player3,Godric,player2,Alfred	
+Vasilii,player3,Godric,player2,Alfred	
+Vasilii,player3,Godric,player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+player4,Anziose	
+Oreanol,player2	
+Oreanol,player2	
+Oreanol,player2	
+Oreanol,player2	
+Oreanol,player2	
+Oreanol,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Aldhelm,Konrad,player2	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+Konrad,Aldhelm,player2,Cynric,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player1,Vanechka	
+player1,Vanechka	
+player1,Vanechka	
+player1,Vanechka	
+player1,Vanechka	
+player1,Vanechka	
+Kyris,player4	player3,Pros	
+Kyris,player4	player3,Pros	
+Kyris,player4	player3,Pros	
+Kyris,player4	player3,Pros	
+Kyris,player4	player3,Pros	
+Kyris,player4	player3,Pros	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Den,Boris,Ludvik	
+player4,Pyotr	player3,Boris	
+player4,Pyotr	player3,Boris	
+player4,Pyotr	player3,Boris	
+player4,Pyotr	player3,Boris	
+player4,Pyotr	player3,Boris	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+Eldgrim,player3,Pyotr	
+Eldgrim,player3,Pyotr	
+Eldgrim,player3,Pyotr	
+Eldgrim,player3,Pyotr	
+Eldgrim,player3,Pyotr	
+Eldgrim,player3,Pyotr	
+player3,Thrand	
+player3,Thrand	
+player3,Thrand	
+player3,Thrand	
+player3,Thrand	
+player3,Thrand	
+player3,Sarlic,Faran,player4,Pyotr	
+player3,Sarlic,Faran,player4,Pyotr	
+player3,Sarlic,Faran,player4,Pyotr	
+player3,Sarlic,Faran,player4,Pyotr	
+player3,Sarlic,Faran,player4,Pyotr	
+player3,Sarlic,Faran,player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Anzions,Alfred	player3,Pyotr	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+Arnfinn,player1	Adrik,Viktor,player3	
+Arnfinn,player1	Adrik,Viktor,player3	
+Arnfinn,player1	Adrik,Viktor,player3	
+Arnfinn,player1	Adrik,Viktor,player3	
+Arnfinn,player1	Adrik,Viktor,player3	
+Arnfinn,player1	Adrik,Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,Yurik,player3,Tal,Ludvik	
+Arnfinn,player1	Viktor,player3	
+Arnfinn,player1	Viktor,player3	
+Arnfinn,player1	Viktor,player3	
+Arnfinn,player1	Viktor,player3	
+Arnfinn,player1	Viktor,player3	
+player1,Tal	
+player1,Tal	
+player1,Tal	
+player1,Tal	
+player1,Tal	
+player1,Tal	
+player1,Kol,Arnfinn,Tal	
+player1,Kol,Arnfinn,Tal	
+player1,Kol,Arnfinn,Tal	
+player1,Kol,Arnfinn,Tal	
+player1,Kol,Arnfinn,Tal	
+player1,Kol,Arnfinn,Tal	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Samir,player1	
+Starkad,player4	
+Starkad,player4	
+Starkad,player4	
+Starkad,player4	
+Starkad,player4	
+Starkad,player4	
+Musko,Didier,player4	
+Musko,Didier,player4	
+Musko,Didier,player4	
+Musko,Didier,player4	
+Musko,Didier,player4	
+Musko,Didier,player4	
+Musko,player4	
+Musko,player4	
+Musko,player4	
+Musko,player4	
+Musko,player4	
+player1,Zenis,Sanos	
+player1,Zenis,Sanos	
+player1,Zenis,Sanos	
+player1,Zenis,Sanos	
+player1,Zenis,Sanos	
+player1,Zenis,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player1,Sanos	
+player2,Konrad,Hippos,Kol	
+player2,Konrad,Hippos,Kol	
+player2,Konrad,Hippos,Kol	
+player2,Konrad,Hippos,Kol	
+player2,Konrad,Hippos,Kol	
+player2,Konrad,Hippos,Kol	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Konrad,player2	
+Iztal,player1,Isleif	
+Iztal,player1,Isleif	
+Iztal,player1,Isleif	
+Iztal,player1,Isleif	
+Iztal,player1,Isleif	
+Iztal,player1,Isleif	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Iztal	
+player1,Isleif	
+player1,Isleif	
+player1,Isleif	
+player1,Isleif	
+player1,Isleif	
+player1,Isleif	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+player3,Nerian	
+Zace,player1	Gaztea,player3,Ksathra	
+Zace,player1	Gaztea,player3,Ksathra	
+Zace,player1	Gaztea,player3,Ksathra	
+Zace,player1	Gaztea,player3,Ksathra	
+Zace,player1	Gaztea,player3,Ksathra	
+Zace,player1	Gaztea,player3,Ksathra	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Athodro,player2	player3,Isleif,Kles	
+Athodro,player2	player3,Isleif,Kles	
+Athodro,player2	player3,Isleif,Kles	
+Athodro,player2	player3,Isleif,Kles	
+Athodro,player2	player3,Isleif,Kles	
+Athodro,player2	player3,Isleif,Kles	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+Ioros,player3	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+player3,Tal	
+Ador,player4	
+Ador,player4	
+Ador,player4	
+Ador,player4	
+Ador,player4	
+Ador,player4	
+Wildcat,player4,Ador	player3,Apos	
+Wildcat,player4,Ador	player3,Apos	
+Wildcat,player4,Ador	player3,Apos	
+Wildcat,player4,Ador	player3,Apos	
+Wildcat,player4,Ador	player3,Apos	
+Wildcat,player4,Ador	player3,Apos	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Thjodolf	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player0,Halig,Polentzi	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+player4,Theodem,Arnfinn,Wildcat,Epamath,Mikios	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Valfrid,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0,Isleif	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	player3,Isleif	
+Yervant,player0	player3,Isleif	
+Yervant,player0	player3,Isleif	
+Yervant,player0	player3,Isleif	
+Yervant,player0	player3,Isleif	
+Yervant,player0	player3,Isleif	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Yervant,player0	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1,Thalis	player3,Sarlic	
+Aktapho,player1	
+Aktapho,player1	
+Aktapho,player1	
+Aktapho,player1	
+Aktapho,player1	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+player3,player1,Rayhaan,Hedin	
+player3,player1,Rayhaan,Hedin	
+player3,player1,Rayhaan,Hedin	
+player3,player1,Rayhaan,Hedin	
+player3,player1,Rayhaan,Hedin	
+player3,player1,Rayhaan,Hedin	
+player1,Rayhaan	
+player1,Rayhaan	
+player1,Rayhaan	
+player1,Rayhaan	
+player1,Rayhaan	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+Musko,Gauthier,player3,Lar,Ragnar,Urre,Ozur,Motya,Yrre,Fredek,Penrith,Selwyn,Rheged,Edric,Eirik	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+player2,Alfred	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+Sarlic,player1	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+player0,Cerdic	
+Cerdic,player1,Pyotr	
+Cerdic,player1,Pyotr	
+Cerdic,player1,Pyotr	
+Cerdic,player1,Pyotr	
+Cerdic,player1,Pyotr	
+Cerdic,player1,Pyotr	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Brogan,player1	Modig,Zigor,player3,Godric	
+Gauthier,Frog,Yuri,player1	
+Gauthier,Frog,Yuri,player1	
+Gauthier,Frog,Yuri,player1	
+Gauthier,Frog,Yuri,player1	
+Gauthier,Frog,Yuri,player1	
+Gauthier,Frog,Yuri,player1	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Adrik,player4	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+Hord,player4,Nerian	Boar,Sarlic,player1,Ottar	Ormod,player3,Oxa,Pyotr	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Nerian	
+player4,Cynric,Nerian	Viktor,player3	
+player4,Cynric,Nerian	Viktor,player3	
+player4,Cynric,Nerian	Viktor,player3	
+player4,Cynric,Nerian	Viktor,player3	
+player4,Cynric,Nerian	Viktor,player3	
+player4,Cynric,Nerian	Viktor,player3	
+Didier,player4,player2,Alfred	player3,Isleif	
+Didier,player4,player2,Alfred	player3,Isleif	
+Didier,player4,player2,Alfred	player3,Isleif	
+Didier,player4,player2,Alfred	player3,Isleif	
+Didier,player4,player2,Alfred	player3,Isleif	
+Didier,player4,player2,Alfred	player3,Isleif	
+Ivar,Teobaldo,Brand,player2	
+Ivar,Teobaldo,Brand,player2	
+Ivar,Teobaldo,Brand,player2	
+Ivar,Teobaldo,Brand,player2	
+Ivar,Teobaldo,Brand,player2	
+Ivar,Teobaldo,Brand,player2	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+Viktor,Gaztea,player3,Asentzio,Arnfinn	
+player3,Arnfinn	
+player3,Arnfinn	
+player3,Arnfinn	
+player3,Arnfinn	
+player3,Arnfinn	
+Viktor,player3,Ksathra,Thorgeir	
+Viktor,player3,Ksathra,Thorgeir	
+Viktor,player3,Ksathra,Thorgeir	
+Viktor,player3,Ksathra,Thorgeir	
+Viktor,player3,Ksathra,Thorgeir	
+Viktor,player3,Ksathra,Thorgeir	
+player3,Thorgeir,Ksathra	
+player3,Thorgeir,Ksathra	
+player3,Thorgeir,Ksathra	
+player3,Thorgeir,Ksathra	
+player3,Thorgeir,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0,Cerdic,Gardi	Yurik,player3,Jermija	
+Aldhelm,player0	Yurik,player3	
+Aldhelm,player0	Yurik,player3	
+Aldhelm,player0	Yurik,player3	
+Aldhelm,player0	Yurik,player3	
+Aldhelm,player0	Yurik,player3	
+player3,Moriz	
+player3,Moriz	
+player3,Moriz	
+player3,Moriz	
+player3,Moriz	
+player3,Moriz	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Murshid,Amuruza,Aldhelm,player2,Samir	
+Boar,Boris,Otrygg,player1	
+Boar,Boris,Otrygg,player1	
+Boar,Boris,Otrygg,player1	
+Boar,Boris,Otrygg,player1	
+Boar,Boris,Otrygg,player1	
+Boar,Boris,Otrygg,player1	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Runolf,player4	Vasilii,player1,Melchior,Zivon,Olaf	
+Zivon,player1,Melchior	
+Zivon,player1,Melchior	
+Zivon,player1,Melchior	
+Zivon,player1,Melchior	
+Zivon,player1,Melchior	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+player4,player2	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Hakon,Leheren,Julian,Gardi,Ksathra,Aldhelm,player0,Kol	Karolek,Eldgrim,player4	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Aldhelm,player0,Gardi	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Cerdic,Aldhelm,Liron,player0	Viktor,player4	Frog,player1	
+Aldhelm,player0,Cerdic	
+Aldhelm,player0,Cerdic	
+Aldhelm,player0,Cerdic	
+Aldhelm,player0,Cerdic	
+Aldhelm,player0,Cerdic	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Cerdic,player0	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,Brand,Isen,player2	Fadeyka,player4	Faran,player3,Sarlic	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+Teobaldo,player2	
+player4,Boris	player3,Ksathra	
+player4,Boris	player3,Ksathra	
+player4,Boris	player3,Ksathra	
+player4,Boris	player3,Ksathra	
+player4,Boris	player3,Ksathra	
+player4,Boris	player3,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic,Ksathra	
+Viktor,player3,Sarlic	
+Viktor,player3,Sarlic	
+Viktor,player3,Sarlic	
+Viktor,player3,Sarlic	
+Viktor,player3,Sarlic	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3,Godric	
+Viktor,player3,Godric	
+Viktor,player3,Godric	
+Viktor,player3,Godric	
+Viktor,player3,Godric	
+Viktor,player3,Godric	
+Alain,Sarlic,player3	
+Alain,Sarlic,player3	
+Alain,Sarlic,player3	
+Alain,Sarlic,player3	
+Alain,Sarlic,player3	
+Alain,Sarlic,player3	
+player3,Godric,Demis	
+player3,Godric,Demis	
+player3,Godric,Demis	
+player3,Godric,Demis	
+player3,Godric,Demis	
+player3,Godric,Demis	
+player3,Demis	
+player3,Demis	
+player3,Demis	
+player3,Demis	
+player3,Demis	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player4,Alfred	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Isleif	
+player3,Manton	
+player3,Manton	
+player3,Manton	
+player3,Manton	
+player3,Manton	
+player3,Manton	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	Viktor,player3,Sarlic,Boris	
+Herculo,player1	player3,Sarlic	
+Herculo,player1	player3,Sarlic	
+Herculo,player1	player3,Sarlic	
+Herculo,player1	player3,Sarlic	
+Herculo,player1	player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Marther,player1	Viktor,player3,Sarlic	
+Deogol,player3,Sarlic,Cerdic	
+Deogol,player3,Sarlic,Cerdic	
+Deogol,player3,Sarlic,Cerdic	
+Deogol,player3,Sarlic,Cerdic	
+Deogol,player3,Sarlic,Cerdic	
+Deogol,player3,Sarlic,Cerdic	
+player3,Sarlic,Deogol	
+player3,Sarlic,Deogol	
+player3,Sarlic,Deogol	
+player3,Sarlic,Deogol	
+player3,Sarlic,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic,Cerdic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Viktor,player3,Deogol	
+Viktor,player3,Deogol	
+Viktor,player3,Deogol	
+Viktor,player3,Deogol	
+Viktor,player3,Deogol	
+Viktor,player3,Deogol	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4,Arkhano	player3,Sarlic,Cerdic,Sanos,Thorgeir	
+Telaos,player4	player3,Sarlic	
+Telaos,player4	player3,Sarlic	
+Telaos,player4	player3,Sarlic	
+Telaos,player4	player3,Sarlic	
+Telaos,player4	player3,Sarlic	
+Faran,player3,Sarlic,Deogol	
+Faran,player3,Sarlic,Deogol	
+Faran,player3,Sarlic,Deogol	
+Faran,player3,Sarlic,Deogol	
+Faran,player3,Sarlic,Deogol	
+Faran,player3,Sarlic,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Ari,Arkhano,Angelis,player4,Cynric	Faran,player3	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+Sorab,player4,Arkhano,Geo,Karolek,Boris,Isleif	
+player4,Boris,Isleif	
+player4,Boris,Isleif	
+player4,Boris,Isleif	
+player4,Boris,Isleif	
+player4,Boris,Isleif	
+player4,Steinthor,Zivon	player3,Sarlic	
+player4,Steinthor,Zivon	player3,Sarlic	
+player4,Steinthor,Zivon	player3,Sarlic	
+player4,Steinthor,Zivon	player3,Sarlic	
+player4,Steinthor,Zivon	player3,Sarlic	
+player4,Steinthor,Zivon	player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+player2,Alfred	Lodin,player4	player3,Sarlic	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+Lodin,player4	
+player2,Isleif	
+player2,Isleif	
+player2,Isleif	
+player2,Isleif	
+player2,Isleif	
+player2,Isleif	
+player2,Isleif	player4,Tycheus	
+player2,Isleif	player4,Tycheus	
+player2,Isleif	player4,Tycheus	
+player2,Isleif	player4,Tycheus	
+player2,Isleif	player4,Tycheus	
+player2,Isleif	player4,Tycheus	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,Iasyvou,player2,Alfred	player3,Sarlic	
+Zarif,player2	player3,Sarlic	
+Zarif,player2	player3,Sarlic	
+Zarif,player2	player3,Sarlic	
+Zarif,player2	player3,Sarlic	
+Zarif,player2	player3,Sarlic	
+player4,Isleif	
+player4,Isleif	
+player4,Isleif	
+player4,Isleif	
+player4,Isleif	
+player4,Isleif	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Vasilii,Hastein,player4,Cynric,Wregan	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+Hastein,player4,Cynric	
+player4,Cynric	
+player4,Cynric	
+player4,Cynric	
+player4,Cynric	
+player4,Cynric	
+player4,Wregan	player3,Sarlic	
+player4,Wregan	player3,Sarlic	
+player4,Wregan	player3,Sarlic	
+player4,Wregan	player3,Sarlic	
+player4,Wregan	player3,Sarlic	
+player4,Wregan	player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Nikis,player0	
+Nikis,player0	
+Nikis,player0	
+Nikis,player0	
+Nikis,player0	
+Nikis,player0	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Yoros	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+player3,Deogol	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+Viktor,player3,Sarlic,Isleif,Kol,Ador,player4,Anziolo	
+player4,Isleif	player3,Anziolo	
+player4,Isleif	player3,Anziolo	
+player4,Isleif	player3,Anziolo	
+player4,Isleif	player3,Anziolo	
+player4,Isleif	player3,Anziolo	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+player3,Sarlic	
+Lodin,player3,Sarlic,Godric,Hes	
+Lodin,player3,Sarlic,Godric,Hes	
+Lodin,player3,Sarlic,Godric,Hes	
+Lodin,player3,Sarlic,Godric,Hes	
+Lodin,player3,Sarlic,Godric,Hes	
+Lodin,player3,Sarlic,Godric,Hes	
+Viktor,Zigor,player3	
+Viktor,Zigor,player3	
+Viktor,Zigor,player3	
+Viktor,Zigor,player3	
+Viktor,Zigor,player3	
+Viktor,Zigor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Viktor,player3	
+Aldhelm,player0,Nichana,Aldred	
+Aldhelm,player0,Nichana,Aldred	
+Aldhelm,player0,Nichana,Aldred	
+Aldhelm,player0,Nichana,Aldred	
+Aldhelm,player0,Nichana,Aldred	
+Aldhelm,player0,Nichana,Aldred	
+Alfred,player2,Samir	
+Alfred,player2,Samir	
+Alfred,player2,Samir	
+Alfred,player2,Samir	
+Alfred,player2,Samir	
+Alfred,player2,Samir	
+Hes,player2,Amuruza	Wregan,player1	
+Hes,player2,Amuruza	Wregan,player1	
+Hes,player2,Amuruza	Wregan,player1	
+Hes,player2,Amuruza	Wregan,player1	
+Hes,player2,Amuruza	Wregan,player1	
+Hes,player2,Amuruza	Wregan,player1	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player3,Godric	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player4,Theodes	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Ksathra	
+player3,Kol	
+player3,Kol	
+player3,Kol	
+player3,Kol	
+player3,Kol	
+player3,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player4,Kol	
+player3,Tal,Anikobu	
+player3,Tal,Anikobu	
+player3,Tal,Anikobu	
+player3,Tal,Anikobu	
+player3,Tal,Anikobu	
+player3,Tal,Anikobu	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Starkad,player3	
+Antso,player3	
+Antso,player3	
+Antso,player3	
+Antso,player3	
+Antso,player3	
+Antso,player3	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+player3,Boris	
+Viktor,Frog,player3,Arios,player4,Deogol	
+Viktor,Frog,player3,Arios,player4,Deogol	
+Viktor,Frog,player3,Arios,player4,Deogol	
+Viktor,Frog,player3,Arios,player4,Deogol	
+Viktor,Frog,player3,Arios,player4,Deogol	
+Viktor,Frog,player3,Arios,player4,Deogol	
+player3,Arios	
+player3,Arios	
+player3,Arios	
+player3,Arios

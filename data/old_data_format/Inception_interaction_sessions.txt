@@ -1,0 +1,819 @@
+TIME_COUNT=490
+NODE_COUNT=10
+INTERACTION_SESSION_COUNT=116
+LOCATION_COUNT=8
+WEIGHTS={}
+{'FISCHER': 9, 'EAMES': 7, 'YUSUF': 8, 'SAITO': 0, 'ARTHUR': 2, 'MAL': 3, 'ASIAN': 5, 'COBB': 1, 'ARCH': 4, 'ARIADNE': 6}
+{'OTHER': 0, 'SAITO DREAM': 1, 'COBB DREAM': 2, 'ARIADNE DREAM': 3, 'FISCHER DREAM': 4, 'FISCHER DREAM LAYER 2': 5, 'FISCHER DREAM LAYER 3': 6, 'LIMBO': 7}
+ Name      :  [0, 1, 2]_0
+ Id        :  0
+ Start     :  0
+ End       :  7
+ Members   :  [0, 1, 2] 
+ Location  :  1 
+
+ Name      :  [0]_7
+ Id        :  1
+ Start     :  7
+ End       :  21
+ Members   :  [0] 
+ Location  :  1 
+
+ Name      :  [1, 2]_7
+ Id        :  2
+ Start     :  7
+ End       :  14
+ Members   :  [1, 2] 
+ Location  :  1 
+
+ Name      :  [3]_7
+ Id        :  3
+ Start     :  7
+ End       :  14
+ Members   :  [3] 
+ Location  :  1 
+
+ Name      :  [1, 3]_14
+ Id        :  4
+ Start     :  14
+ End       :  21
+ Members   :  [1, 3] 
+ Location  :  1 
+
+ Name      :  [2]_14
+ Id        :  5
+ Start     :  14
+ End       :  28
+ Members   :  [2] 
+ Location  :  1 
+
+ Name      :  [0, 3]_21
+ Id        :  6
+ Start     :  21
+ End       :  28
+ Members   :  [0, 3] 
+ Location  :  1 
+
+ Name      :  [1]_21
+ Id        :  7
+ Start     :  21
+ End       :  34
+ Members   :  [1] 
+ Location  :  1 
+
+ Name      :  [0, 2, 3]_28
+ Id        :  8
+ Start     :  28
+ End       :  34
+ Members   :  [0, 2, 3] 
+ Location  :  1 
+
+ Name      :  [0, 1, 2, 3]_34
+ Id        :  9
+ Start     :  34
+ End       :  41
+ Members   :  [0, 1, 2, 3] 
+ Location  :  1 
+
+ Name      :  [0, 1, 3]_41
+ Id        :  10
+ Start     :  41
+ End       :  48
+ Members   :  [0, 1, 3] 
+ Location  :  1 
+
+ Name      :  [2, 4]_41
+ Id        :  11
+ Start     :  41
+ End       :  62
+ Members   :  [2, 4] 
+ Location  :  2 
+
+ Name      :  [0, 3]_48
+ Id        :  12
+ Start     :  48
+ End       :  55
+ Members   :  [0, 3] 
+ Location  :  1 
+
+ Name      :  [1]_48
+ Id        :  13
+ Start     :  48
+ End       :  62
+ Members   :  [1] 
+ Location  :  2 
+
+ Name      :  [0]_55
+ Id        :  14
+ Start     :  55
+ End       :  62
+ Members   :  [0] 
+ Location  :  2 
+
+ Name      :  [0, 1, 2, 4]_62
+ Id        :  15
+ Start     :  62
+ End       :  68
+ Members   :  [0, 1, 2, 4] 
+ Location  :  2 
+
+ Name      :  [0, 1, 4]_68
+ Id        :  16
+ Start     :  68
+ End       :  75
+ Members   :  [0, 1, 4] 
+ Location  :  2 
+
+ Name      :  [2]_68
+ Id        :  17
+ Start     :  68
+ End       :  75
+ Members   :  [2] 
+ Location  :  0 
+
+ Name      :  [0]_75
+ Id        :  18
+ Start     :  75
+ End       :  82
+ Members   :  [0] 
+ Location  :  0 
+
+ Name      :  [1, 2, 4, 5]_75
+ Id        :  19
+ Start     :  75
+ End       :  82
+ Members   :  [1, 2, 4, 5] 
+ Location  :  0 
+
+ Name      :  [0, 4]_82
+ Id        :  20
+ Start     :  82
+ End       :  96
+ Members   :  [0, 4] 
+ Location  :  0 
+
+ Name      :  [1]_82
+ Id        :  21
+ Start     :  82
+ End       :  89
+ Members   :  [1] 
+ Location  :  0 
+
+ Name      :  [2, 5]_82
+ Id        :  22
+ Start     :  82
+ End       :  89
+ Members   :  [2, 5] 
+ Location  :  0 
+
+ Name      :  [1, 2]_89
+ Id        :  23
+ Start     :  89
+ End       :  96
+ Members   :  [1, 2] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 4]_96
+ Id        :  24
+ Start     :  96
+ End       :  102
+ Members   :  [0, 1, 2, 4] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2]_102
+ Id        :  25
+ Start     :  102
+ End       :  109
+ Members   :  [0, 1, 2] 
+ Location  :  0 
+
+ Name      :  [4]_102
+ Id        :  26
+ Start     :  102
+ End       :  109
+ Members   :  [4] 
+ Location  :  0 
+
+ Name      :  [0]_109
+ Id        :  27
+ Start     :  109
+ End       :  191
+ Members   :  [0] 
+ Location  :  0 
+
+ Name      :  [1, 2]_109
+ Id        :  28
+ Start     :  109
+ End       :  123
+ Members   :  [1, 2] 
+ Location  :  0 
+
+ Name      :  [6]_116
+ Id        :  29
+ Start     :  116
+ End       :  123
+ Members   :  [6] 
+ Location  :  0 
+
+ Name      :  [1, 6]_123
+ Id        :  30
+ Start     :  123
+ End       :  130
+ Members   :  [1, 6] 
+ Location  :  0 
+
+ Name      :  [2]_123
+ Id        :  31
+ Start     :  123
+ End       :  130
+ Members   :  [2] 
+ Location  :  0 
+
+ Name      :  [1, 2, 6]_130
+ Id        :  32
+ Start     :  130
+ End       :  136
+ Members   :  [1, 2, 6] 
+ Location  :  0 
+
+ Name      :  [1, 6]_136
+ Id        :  33
+ Start     :  136
+ End       :  143
+ Members   :  [1, 6] 
+ Location  :  2 
+
+ Name      :  [2]_136
+ Id        :  34
+ Start     :  136
+ End       :  143
+ Members   :  [2] 
+ Location  :  0 
+
+ Name      :  [1, 2, 6]_143
+ Id        :  35
+ Start     :  143
+ End       :  150
+ Members   :  [1, 2, 6] 
+ Location  :  0 
+
+ Name      :  [1, 6]_150
+ Id        :  36
+ Start     :  150
+ End       :  157
+ Members   :  [1, 6] 
+ Location  :  2 
+
+ Name      :  [2]_150
+ Id        :  37
+ Start     :  150
+ End       :  157
+ Members   :  [2] 
+ Location  :  0 
+
+ Name      :  [1, 2, 6]_157
+ Id        :  38
+ Start     :  157
+ End       :  163
+ Members   :  [1, 2, 6] 
+ Location  :  0 
+
+ Name      :  [1, 2]_163
+ Id        :  39
+ Start     :  163
+ End       :  170
+ Members   :  [1, 2] 
+ Location  :  0 
+
+ Name      :  [6]_163
+ Id        :  40
+ Start     :  163
+ End       :  197
+ Members   :  [6] 
+ Location  :  0 
+
+ Name      :  [7]_163
+ Id        :  41
+ Start     :  163
+ End       :  177
+ Members   :  [7] 
+ Location  :  0 
+
+ Name      :  [1]_170
+ Id        :  42
+ Start     :  170
+ End       :  177
+ Members   :  [1] 
+ Location  :  0 
+
+ Name      :  [2]_170
+ Id        :  43
+ Start     :  170
+ End       :  197
+ Members   :  [2] 
+ Location  :  0 
+
+ Name      :  [1, 7]_177
+ Id        :  44
+ Start     :  177
+ End       :  184
+ Members   :  [1, 7] 
+ Location  :  0 
+
+ Name      :  [1]_184
+ Id        :  45
+ Start     :  184
+ End       :  191
+ Members   :  [1] 
+ Location  :  0 
+
+ Name      :  [7]_184
+ Id        :  46
+ Start     :  184
+ End       :  204
+ Members   :  [7] 
+ Location  :  0 
+
+ Name      :  [0, 1]_191
+ Id        :  47
+ Start     :  191
+ End       :  204
+ Members   :  [0, 1] 
+ Location  :  0 
+
+ Name      :  [2, 6]_197
+ Id        :  48
+ Start     :  197
+ End       :  231
+ Members   :  [2, 6] 
+ Location  :  3 
+
+ Name      :  [0, 1, 7]_204
+ Id        :  49
+ Start     :  204
+ End       :  218
+ Members   :  [0, 1, 7] 
+ Location  :  0 
+
+ Name      :  [8]_211
+ Id        :  50
+ Start     :  211
+ End       :  218
+ Members   :  [8] 
+ Location  :  0 
+
+ Name      :  [0, 1, 7, 8]_218
+ Id        :  51
+ Start     :  218
+ End       :  231
+ Members   :  [0, 1, 7, 8] 
+ Location  :  0 
+
+ Name      :  [9]_225
+ Id        :  52
+ Start     :  225
+ End       :  293
+ Members   :  [9] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 7, 8]_231
+ Id        :  53
+ Start     :  231
+ End       :  238
+ Members   :  [0, 1, 2, 7, 8] 
+ Location  :  0 
+
+ Name      :  [6]_231
+ Id        :  54
+ Start     :  231
+ End       :  238
+ Members   :  [6] 
+ Location  :  0 
+
+ Name      :  [0, 2, 7, 8]_238
+ Id        :  55
+ Start     :  238
+ End       :  245
+ Members   :  [0, 2, 7, 8] 
+ Location  :  0 
+
+ Name      :  [1, 6]_238
+ Id        :  56
+ Start     :  238
+ End       :  245
+ Members   :  [1, 6] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 6, 7, 8]_245
+ Id        :  57
+ Start     :  245
+ End       :  252
+ Members   :  [0, 1, 2, 6, 7, 8] 
+ Location  :  0 
+
+ Name      :  [0, 2, 7, 8]_252
+ Id        :  58
+ Start     :  252
+ End       :  279
+ Members   :  [0, 2, 7, 8] 
+ Location  :  0 
+
+ Name      :  [1, 6]_252
+ Id        :  59
+ Start     :  252
+ End       :  259
+ Members   :  [1, 6] 
+ Location  :  2 
+
+ Name      :  [1]_259
+ Id        :  60
+ Start     :  259
+ End       :  265
+ Members   :  [1] 
+ Location  :  2 
+
+ Name      :  [3, 6]_259
+ Id        :  61
+ Start     :  259
+ End       :  265
+ Members   :  [3, 6] 
+ Location  :  2 
+
+ Name      :  [1, 3, 6]_265
+ Id        :  62
+ Start     :  265
+ End       :  272
+ Members   :  [1, 3, 6] 
+ Location  :  2 
+
+ Name      :  [1, 6]_272
+ Id        :  63
+ Start     :  272
+ End       :  279
+ Members   :  [1, 6] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 6]_279
+ Id        :  64
+ Start     :  279
+ End       :  286
+ Members   :  [0, 1, 2, 6] 
+ Location  :  0 
+
+ Name      :  [7, 8]_279
+ Id        :  65
+ Start     :  279
+ End       :  286
+ Members   :  [7, 8] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 6, 7, 8]_286
+ Id        :  66
+ Start     :  286
+ End       :  293
+ Members   :  [0, 1, 2, 6, 7, 8] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 6, 7, 8, 9]_293
+ Id        :  67
+ Start     :  293
+ End       :  299
+ Members   :  [0, 1, 2, 6, 7, 8, 9] 
+ Location  :  0 
+
+ Name      :  [0, 1, 2, 6, 7, 8]_299
+ Id        :  68
+ Start     :  299
+ End       :  306
+ Members   :  [0, 1, 2, 6, 7, 8] 
+ Location  :  4 
+
+ Name      :  [9]_299
+ Id        :  69
+ Start     :  299
+ End       :  306
+ Members   :  [9] 
+ Location  :  4 
+
+ Name      :  [0, 2, 7, 9]_306
+ Id        :  70
+ Start     :  306
+ End       :  313
+ Members   :  [0, 2, 7, 9] 
+ Location  :  4 
+
+ Name      :  [1, 6, 8]_306
+ Id        :  71
+ Start     :  306
+ End       :  313
+ Members   :  [1, 6, 8] 
+ Location  :  4 
+
+ Name      :  [0, 1, 2, 6, 7, 8, 9]_313
+ Id        :  72
+ Start     :  313
+ End       :  320
+ Members   :  [0, 1, 2, 6, 7, 8, 9] 
+ Location  :  4 
+
+ Name      :  [0, 1, 2, 6, 8]_320
+ Id        :  73
+ Start     :  320
+ End       :  326
+ Members   :  [0, 1, 2, 6, 8] 
+ Location  :  4 
+
+ Name      :  [7, 9]_320
+ Id        :  74
+ Start     :  320
+ End       :  333
+ Members   :  [7, 9] 
+ Location  :  4 
+
+ Name      :  [0, 2, 8]_326
+ Id        :  75
+ Start     :  326
+ End       :  333
+ Members   :  [0, 2, 8] 
+ Location  :  4 
+
+ Name      :  [1, 6]_326
+ Id        :  76
+ Start     :  326
+ End       :  333
+ Members   :  [1, 6] 
+ Location  :  4 
+
+ Name      :  [0, 1, 2, 6, 7, 8, 9]_333
+ Id        :  77
+ Start     :  333
+ End       :  340
+ Members   :  [0, 1, 2, 6, 7, 8, 9] 
+ Location  :  4 
+
+ Name      :  [0]_340
+ Id        :  78
+ Start     :  340
+ End       :  347
+ Members   :  [0] 
+ Location  :  5 
+
+ Name      :  [1, 7, 9]_340
+ Id        :  79
+ Start     :  340
+ End       :  347
+ Members   :  [1, 7, 9] 
+ Location  :  5 
+
+ Name      :  [2, 6]_340
+ Id        :  80
+ Start     :  340
+ End       :  354
+ Members   :  [2, 6] 
+ Location  :  5 
+
+ Name      :  [8]_340
+ Id        :  81
+ Start     :  340
+ End       :  462
+ Members   :  [8] 
+ Location  :  4 
+
+ Name      :  [0, 7]_347
+ Id        :  82
+ Start     :  347
+ End       :  360
+ Members   :  [0, 7] 
+ Location  :  5 
+
+ Name      :  [1, 9]_347
+ Id        :  83
+ Start     :  347
+ End       :  354
+ Members   :  [1, 9] 
+ Location  :  5 
+
+ Name      :  [1, 2, 6, 9]_354
+ Id        :  84
+ Start     :  354
+ End       :  360
+ Members   :  [1, 2, 6, 9] 
+ Location  :  5 
+
+ Name      :  [0, 1, 2, 6, 7, 9]_360
+ Id        :  85
+ Start     :  360
+ End       :  367
+ Members   :  [0, 1, 2, 6, 7, 9] 
+ Location  :  5 
+
+ Name      :  [0, 1, 6, 7, 9]_367
+ Id        :  86
+ Start     :  367
+ End       :  374
+ Members   :  [0, 1, 6, 7, 9] 
+ Location  :  6 
+
+ Name      :  [2]_367
+ Id        :  87
+ Start     :  367
+ End       :  456
+ Members   :  [2] 
+ Location  :  5 
+
+ Name      :  [0, 7, 9]_374
+ Id        :  88
+ Start     :  374
+ End       :  381
+ Members   :  [0, 7, 9] 
+ Location  :  6 
+
+ Name      :  [1, 6]_374
+ Id        :  89
+ Start     :  374
+ End       :  401
+ Members   :  [1, 6] 
+ Location  :  6 
+
+ Name      :  [0, 9]_381
+ Id        :  90
+ Start     :  381
+ End       :  394
+ Members   :  [0, 9] 
+ Location  :  6 
+
+ Name      :  [7]_381
+ Id        :  91
+ Start     :  381
+ End       :  408
+ Members   :  [7] 
+ Location  :  6 
+
+ Name      :  [0, 3, 9]_394
+ Id        :  92
+ Start     :  394
+ End       :  401
+ Members   :  [0, 3, 9] 
+ Location  :  6 
+
+ Name      :  [0, 1, 6, 9]_401
+ Id        :  93
+ Start     :  401
+ End       :  408
+ Members   :  [0, 1, 6, 9] 
+ Location  :  6 
+
+ Name      :  [0, 1, 6, 7, 9]_408
+ Id        :  94
+ Start     :  408
+ End       :  415
+ Members   :  [0, 1, 6, 7, 9] 
+ Location  :  6 
+
+ Name      :  [0, 7]_415
+ Id        :  95
+ Start     :  415
+ End       :  435
+ Members   :  [0, 7] 
+ Location  :  6 
+
+ Name      :  [1, 6]_415
+ Id        :  96
+ Start     :  415
+ End       :  422
+ Members   :  [1, 6] 
+ Location  :  7 
+
+ Name      :  [9]_415
+ Id        :  97
+ Start     :  415
+ End       :  428
+ Members   :  [9] 
+ Location  :  7 
+
+ Name      :  [1, 3, 6]_422
+ Id        :  98
+ Start     :  422
+ End       :  428
+ Members   :  [1, 3, 6] 
+ Location  :  7 
+
+ Name      :  [1, 3, 6, 9]_428
+ Id        :  99
+ Start     :  428
+ End       :  442
+ Members   :  [1, 3, 6, 9] 
+ Location  :  7 
+
+ Name      :  [0]_435
+ Id        :  100
+ Start     :  435
+ End       :  476
+ Members   :  [0] 
+ Location  :  7 
+
+ Name      :  [7]_435
+ Id        :  101
+ Start     :  435
+ End       :  442
+ Members   :  [7] 
+ Location  :  6 
+
+ Name      :  [1, 3, 6]_442
+ Id        :  102
+ Start     :  442
+ End       :  449
+ Members   :  [1, 3, 6] 
+ Location  :  7 
+
+ Name      :  [7, 9]_442
+ Id        :  103
+ Start     :  442
+ End       :  449
+ Members   :  [7, 9] 
+ Location  :  6 
+
+ Name      :  [1, 3]_449
+ Id        :  104
+ Start     :  449
+ End       :  469
+ Members   :  [1, 3] 
+ Location  :  7 
+
+ Name      :  [6, 7, 9]_449
+ Id        :  105
+ Start     :  449
+ End       :  456
+ Members   :  [6, 7, 9] 
+ Location  :  6 
+
+ Name      :  [2, 6, 7, 9]_456
+ Id        :  106
+ Start     :  456
+ End       :  462
+ Members   :  [2, 6, 7, 9] 
+ Location  :  5 
+
+ Name      :  [2, 6, 7, 8, 9]_462
+ Id        :  107
+ Start     :  462
+ End       :  469
+ Members   :  [2, 6, 7, 8, 9] 
+ Location  :  4 
+
+ Name      :  [1]_469
+ Id        :  108
+ Start     :  469
+ End       :  476
+ Members   :  [1] 
+ Location  :  7 
+
+ Name      :  [2, 6, 8]_469
+ Id        :  109
+ Start     :  469
+ End       :  476
+ Members   :  [2, 6, 8] 
+ Location  :  4 
+
+ Name      :  [7, 9]_469
+ Id        :  110
+ Start     :  469
+ End       :  483
+ Members   :  [7, 9] 
+ Location  :  4 
+
+ Name      :  [0, 1]_476
+ Id        :  111
+ Start     :  476
+ End       :  483
+ Members   :  [0, 1] 
+ Location  :  7 
+
+ Name      :  [2, 6]_476
+ Id        :  112
+ Start     :  476
+ End       :  483
+ Members   :  [2, 6] 
+ Location  :  4 
+
+ Name      :  [8]_476
+ Id        :  113
+ Start     :  476
+ End       :  483
+ Members   :  [8] 
+ Location  :  4 
+
+ Name      :  [0, 1, 2, 6, 7, 8]_483
+ Id        :  114
+ Start     :  483
+ End       :  490
+ Members   :  [0, 1, 2, 6, 7, 8] 
+ Location  :  0 
+
+ Name      :  [9]_483
+ Id        :  115
+ Start     :  483
+ End       :  490
+ Members   :  [9] 
+ Location  :  0 
+
